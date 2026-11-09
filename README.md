@@ -12,8 +12,8 @@ Guía interactiva para identificar las normas de Derecho digital de la Unión Eu
 ## Contenido
 | Ruta | Qué es |
 |---|---|
-| `index.html` | La página completa: datos, lógica y estilos. Es la fuente de verdad. |
-| `data/mapa_datos.json` | Normas, relaciones, ámbitos y tipos de relación, extraídos de la página (solo lectura; si difiere de `index.html`, manda el HTML). |
+| `index.html` | La página completa: datos, lógica y estilos. |
+| `data/mapa_datos.json` | Normas, relaciones, ámbitos y tipos de relación  |
 | `CHANGELOG.md` | Historial de versiones. |
 | `CITATION.cff` | Cómo citar el trabajo. |
 
