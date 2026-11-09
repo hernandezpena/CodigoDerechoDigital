@@ -1,6 +1,6 @@
 <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <!--
-Código interactivo de Derecho digital. Versión 1.89 (9-11-2026).
+Código interactivo de Derecho digital. Versión 1.90 (9-11-2026).
 Autor: Juan Carlos Hernández Peña (Universidad de Navarra). Las relaciones entre normas son provisionales; véase el pie de página.
 -->
 <title>Código interactivo de Derecho digital</title>
@@ -65,6 +65,14 @@ Autor: Juan Carlos Hernández Peña (Universidad de Navarra). Las relaciones ent
 .foot-id p { margin: 0 0 8px; }
 .foot-id blockquote { margin: 0 0 18px; padding: 12px 16px; background: var(--surface); border-left: 3px solid var(--ink); color: var(--ink); font-size: 14px; line-height: 1.6; }
 .foot-id blockquote a { color: inherit; word-break: break-all; }
+
+/* Explicación flotante de la relación */
+#reltip { position: fixed; z-index: 50; max-width: min(360px, calc(100vw - 24px)); background: var(--surface); color: var(--ink); border: 1px solid var(--line); border-left: 4px solid var(--muted); border-radius: 8px; padding: 10px 12px; box-shadow: 0 6px 22px rgba(15, 25, 35, .22); font-size: 13.5px; line-height: 1.5; pointer-events: none; opacity: 0; transform: translateY(4px); transition: opacity .12s, transform .12s; }
+#reltip.on { opacity: 1; transform: none; }
+#reltip .rt-h { font-family: var(--font-display); font-size: 15.5px; font-weight: 600; margin: 0 0 4px; }
+#reltip .rt-t { font-family: var(--font-mono, monospace); font-size: 11px; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 3px; }
+#reltip .rt-i + .rt-i { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--line); }
+#reltip p { margin: 0; }
 * { box-sizing: border-box; }
 body {
   background: var(--bg); color: var(--ink); font-family: var(--font-body); font-size: 15px; line-height: 1.55;
@@ -493,14 +501,14 @@ button { font: inherit; color: inherit; }
       </div>
       <div>
         <h3>Cómo citar</h3>
-        <blockquote>Hernández Peña, J. C. (2026). <em>Código interactivo de Derecho digital</em> (versión 1.89). PrivaIA Lab Navarra, Facultad de Derecho, Universidad de Navarra. Disponible en: <a href="https://hernandezpena.github.io/CodigoDerechoDigital/">https://hernandezpena.github.io/CodigoDerechoDigital/</a> [consulta: 9 de noviembre de 2026].</blockquote>
+        <blockquote>Hernández Peña, J. C. (2026). <em>Código interactivo de Derecho digital</em> (versión 1.90). PrivaIA Lab Navarra, Facultad de Derecho, Universidad de Navarra. Disponible en: <a href="https://hernandezpena.github.io/CodigoDerechoDigital/">https://hernandezpena.github.io/CodigoDerechoDigital/</a> [consulta: 9 de noviembre de 2026].</blockquote>
         <h3>Licencia</h3>
         <p>Pendiente de determinar. Hasta entonces, todos los derechos reservados.</p>
       </div>
     </div>
     <p><strong>Alcance y método.</strong> Marco multinivel: cada norma se identifica como de la Unión Europea (UE) o española (ES). La capa del Consejo de Europa (Convenio 108+ y Convenio Marco sobre IA) no está incluida en esta versión; se actualizará posteriormente. Consulte la <a href="#metodologia" class="lnk-metodo">Metodología</a>.</p>
     <p id="revision"></p>
-    <p id="version-codigo">Revisión del código: versión 1.89 (9 de noviembre de 2026).</p>
+    <p id="version-codigo">Revisión del código: versión 1.90 (9 de noviembre de 2026).</p>
     <p>Las relaciones entre normas son provisionales y están pendientes de revisión. Cada ficha indica su estado actual y enlaza a la fuente oficial o secundaria utilizada.</p>
     <details class="metodo" id="metodologia">
       <summary>Metodología</summary>
@@ -3950,20 +3958,56 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
   }
   var MCOL = { complementa: "var(--r-comp)", solapa: "var(--r-sol)", especial: "var(--r-esp)", remite: "var(--r-rem)" };
 
+  /* Explicación flotante de la relación (al pasar el puntero o enfocar con el teclado) */
+  var tipEl = null;
+  function esc(t) { return String(t).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+  function tipHide() { if (tipEl) tipEl.classList.remove("on"); }
+  function tipShow(conns, evt, el) {
+    if (!conns || !conns.length) { tipHide(); return; }
+    if (!tipEl) { tipEl = document.createElement("div"); tipEl.id = "reltip"; tipEl.setAttribute("role", "tooltip"); document.body.appendChild(tipEl); }
+    tipEl.innerHTML = conns.map(function (c) {
+      var r = RELACIONES[c.t];
+      return '<div class="rt-i"><span class="rt-t" style="color:' + MCOL[c.t] + '">' + esc(r.glifo) + " " + esc(r.nombre) + '</span><p class="rt-h">' + esc(byId[c.de].corto) + " \u2192 " + esc(byId[c.a].corto) + "</p><p>" + esc(c.x) + "</p></div>";
+    }).join("");
+    tipEl.style.borderLeftColor = MCOL[conns[0].t];
+    tipEl.classList.add("on");
+    tipMove(evt, el);
+  }
+  function tipMove(evt, el) {
+    if (!tipEl || !tipEl.classList.contains("on")) return;
+    var w = tipEl.offsetWidth, h = tipEl.offsetHeight, x, y;
+    if (evt && evt.clientX != null) {
+      x = evt.clientX + 16; y = evt.clientY + 18;
+      if (x + w > window.innerWidth - 8) x = Math.max(8, evt.clientX - w - 16);
+      if (y + h > window.innerHeight - 8) y = Math.max(8, evt.clientY - h - 14);
+    } else if (el) {
+      var r = el.getBoundingClientRect(); x = Math.min(Math.max(8, r.left), window.innerWidth - w - 8); y = r.bottom + 8;
+      if (y + h > window.innerHeight - 8) y = r.top - h - 8;
+      if (y < 8) y = 8;
+    } else return;
+    tipEl.style.left = x + "px"; tipEl.style.top = y + "px";
+  }
+  function connsBetween(a, b) {
+    return CONEXIONES.filter(function (c) { return (c.de === a && c.a === b) || (c.de === b && c.a === a); });
+  }
+  function tipForNode(id, evt, el) {
+    if (state.sel && id !== state.sel) tipShow(connsBetween(state.sel, id), evt, el); else tipHide();
+  }
+
   function normHandlers(g, id) {
-    g.addEventListener("click", function () { selectNorm(id); });
-    g.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); selectNorm(id); } });
-    g.addEventListener("mouseenter", function () { state.hover = id; paint(); });
-    g.addEventListener("mouseleave", function () { state.hover = null; paint(); });
-    g.addEventListener("focus", function () { state.hover = id; paint(); });
-    g.addEventListener("blur", function () { state.hover = null; paint(); });
+    g.addEventListener("click", function () { selectNorm(id); tipHide(); });
+    g.addEventListener("keydown", function (e) { if (e.key === "Enter" || e.key === " ") { e.preventDefault(); selectNorm(id); } else if (e.key === "Escape") tipHide(); });
+    g.addEventListener("mouseenter", function (e) { state.hover = id; paint(); tipForNode(id, null, g); });
+    g.addEventListener("mouseleave", function () { state.hover = null; paint(); tipHide(); });
+    g.addEventListener("focus", function () { state.hover = id; paint(); tipForNode(id, null, g); });
+    g.addEventListener("blur", function () { state.hover = null; paint(); tipHide(); });
   }
 
   function drawMap() {
     while (svg.firstChild) svg.removeChild(svg.firstChild);
     edgeEls = []; nodeEls = {};
     svg.appendChild(s("defs", null, [s("pattern", { id: "hatch", width: 7, height: 7, patternUnits: "userSpaceOnUse", patternTransform: "rotate(45)" }, [s("rect", { width: 7, height: 7, "class": "hbg" }), s("line", { x1: 0, y1: 0, x2: 0, y2: 7, "class": "hln" })])]));
-    svg.style.minWidth = ""; if (state.view === "panorama") { drawPanorama(); } else { drawAmbito(state.view); }
+    tipHide(); svg.style.minWidth = ""; if (state.view === "panorama") { drawPanorama(); } else { drawAmbito(state.view); }
   }
 
   function drawPanorama() {
@@ -4021,18 +4065,19 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
     if (hasR) svg.appendChild(s("text", { x: L.xR, y: 34, "class": "sidelabel", text: "NORMAS DE OTROS ÁMBITOS CONECTADAS" }));
     edges.forEach(function (e) {
       var c = e.c, tt = byId[c.de].corto + " · " + RELACIONES[c.t].nombre + " · " + byId[c.a].corto;
-      var hit = s("path", { d: e.d, "class": "edgehit" }, [s("title", { text: tt })]);
-      var p = s("path", { d: e.d, "class": "edge " + c.t, "marker-end": "url(#arr-" + c.t + ")" }, [s("title", { text: tt })]);
+      var hit = s("path", { d: e.d, "class": "edgehit" });
+      var p = s("path", { d: e.d, "class": "edge " + c.t, "marker-end": "url(#arr-" + c.t + ")" });
       if (c.t === "solapa") p.setAttribute("marker-start", "url(#arr-solapa)");
       svg.appendChild(p); svg.appendChild(hit);
       var b = s("g", { "class": "badge " + c.t, transform: "translate(" + e.bp[0].toFixed(1) + " " + e.bp[1].toFixed(1) + ")" }, [
-        s("title", { text: tt }), s("circle", { r: 11 }), s("text", { text: RELACIONES[c.t].glifo })
+        s("circle", { r: 11 }), s("text", { text: RELACIONES[c.t].glifo })
       ]);
       svg.appendChild(b);
       var o = { el: p, badge: b, c: c, bp: e.bp };
       [hit, b].forEach(function (t) {
-        t.addEventListener("mouseenter", function () { state.hoverEdge = o; paint(); });
-        t.addEventListener("mouseleave", function () { state.hoverEdge = null; paint(); });
+        t.addEventListener("mouseenter", function (e) { state.hoverEdge = o; paint(); tipShow([c], e, t); });
+        t.addEventListener("mousemove", function (e) { tipMove(e, t); });
+        t.addEventListener("mouseleave", function () { state.hoverEdge = null; paint(); tipHide(); });
       });
       edgeEls.push(o);
     });
