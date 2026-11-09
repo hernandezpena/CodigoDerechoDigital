@@ -1,6 +1,6 @@
 <!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <!--
-Código interactivo de Derecho digital. Versión 1.90 (9-11-2026).
+Código interactivo de Derecho digital. Versión 1.91 (9-11-2026).
 Autor: Juan Carlos Hernández Peña (Universidad de Navarra). Las relaciones entre normas son provisionales; véase el pie de página.
 -->
 <title>Código interactivo de Derecho digital</title>
@@ -132,6 +132,7 @@ button { font: inherit; color: inherit; }
 .edge.remite { stroke: var(--r-rem); stroke-dasharray: 1.5 5; stroke-linecap: round; stroke-width: 2.4; }
 .edge.dim { opacity: 0.12; }
 .edgehit { fill: none; stroke: transparent; stroke-width: 12; cursor: pointer; pointer-events: stroke; }
+.edge.ee { stroke-width: 1.5; opacity: 0.6; }
 .edge.hot { opacity: 1; stroke-width: 3.4; }
 .badge circle { fill: var(--surface); stroke-width: 1.8; }
 .badge text { font-family: var(--font-body); font-size: 13px; font-weight: 600; text-anchor: middle; dominant-baseline: central; }
@@ -501,14 +502,14 @@ button { font: inherit; color: inherit; }
       </div>
       <div>
         <h3>Cómo citar</h3>
-        <blockquote>Hernández Peña, J. C. (2026). <em>Código interactivo de Derecho digital</em> (versión 1.90). PrivaIA Lab Navarra, Facultad de Derecho, Universidad de Navarra. Disponible en: <a href="https://hernandezpena.github.io/CodigoDerechoDigital/">https://hernandezpena.github.io/CodigoDerechoDigital/</a> [consulta: 9 de noviembre de 2026].</blockquote>
+        <blockquote>Hernández Peña, J. C. (2026). <em>Código interactivo de Derecho digital</em> (versión 1.91). PrivaIA Lab Navarra, Facultad de Derecho, Universidad de Navarra. Disponible en: <a href="https://hernandezpena.github.io/CodigoDerechoDigital/">https://hernandezpena.github.io/CodigoDerechoDigital/</a> [consulta: 9 de noviembre de 2026].</blockquote>
         <h3>Licencia</h3>
         <p>Pendiente de determinar. Hasta entonces, todos los derechos reservados.</p>
       </div>
     </div>
     <p><strong>Alcance y método.</strong> Marco multinivel: cada norma se identifica como de la Unión Europea (UE) o española (ES). La capa del Consejo de Europa (Convenio 108+ y Convenio Marco sobre IA) no está incluida en esta versión; se actualizará posteriormente. Consulte la <a href="#metodologia" class="lnk-metodo">Metodología</a>.</p>
     <p id="revision"></p>
-    <p id="version-codigo">Revisión del código: versión 1.90 (9 de noviembre de 2026).</p>
+    <p id="version-codigo">Revisión del código: versión 1.91 (9 de noviembre de 2026).</p>
     <p>Las relaciones entre normas son provisionales y están pendientes de revisión. Cada ficha indica su estado actual y enlaza a la fuente oficial o secundaria utilizada.</p>
     <details class="metodo" id="metodologia">
       <summary>Metodología</summary>
@@ -3780,18 +3781,26 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
         y += 84;
       });
     });
-    return { k: k, pos: pos, side: side, h: hh, center: center, H: bottom + 36, nExt: list.length };
+    return { k: k, pos: pos, side: side, h: hh, center: center, H: bottom + 36, Hb: bottom + 36, nExt: list.length };
   }
 
   /* Cada conexión se dibuja con un trazado ortogonal propio: sale de su punto de anclaje, recorre un carril exclusivo del pasillo y entra en la otra norma. */
   function buildEdges(L) {
-    var edges = [], att = {}, pendingLoops = [], flip = 0;
+    var edges = [], att = {}, pendingLoops = [], flip = 0, ees = [];
     function reg(id, sd, e) { var key = id + "|" + sd; (att[key] = att[key] || []).push(e); }
     function cnt(id, sd) { return (att[id + "|" + sd] || []).length; }
     CONEXIONES.forEach(function (c) {
       var sa = L.side[c.de], sb = L.side[c.a];
-      if (!sa || !sb || (sa !== "C" && sb !== "C")) return;
+      if (!sa || !sb) return;
       var e = { c: c };
+      if (sa !== "C" && sb !== "C") {
+        e.kind = "ee"; e.sa = sa; e.sb = sb;
+        e.opp = sa !== sb;
+        e.fa = sa === "L" ? "l" : "r"; e.fb = sb === "L" ? "l" : "r";
+        reg(c.de, e.fa, e); reg(c.a, e.fb, e);
+        edges.push(e); ees.push(e);
+        return;
+      }
       if (sa === "C" && sb === "C") {
         var ia = L.center.indexOf(c.de), ib = L.center.indexOf(c.a), span = Math.abs(ia - ib);
         if (span === 1) { e.kind = "v"; edges.push(e); }
@@ -3811,7 +3820,7 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
     });
     Object.keys(att).forEach(function (key) {
       var id = key.split("|")[0], list = att[key];
-      function otherY(e) { var o = e.kind === "loop" ? (e.c.de === id ? e.c.a : e.c.de) : (e.cen === id ? e.ext : e.cen); return L.pos[o][1] + L.h[o] / 2; }
+      function otherY(e) { var o = e.kind === "ee" ? (e.c.de === id ? e.c.a : e.c.de) : e.kind === "loop" ? (e.c.de === id ? e.c.a : e.c.de) : (e.cen === id ? e.ext : e.cen); return L.pos[o][1] + L.h[o] / 2; }
       list.sort(function (p, q) { return otherY(p) - otherY(q); });
       var m = list.length, step = m > 1 ? Math.min(9, (L.h[id] - 18) / (m - 1)) : 0;
       list.forEach(function (e, i) { (e.off = e.off || {})[id + "|" + key.split("|")[1]] = (i - (m - 1) / 2) * step; });
@@ -3826,6 +3835,8 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
         e.oa = e.cs === "l" ? -1 : 1; e.ob = e.cs === "l" ? 1 : -1; /* lado del origen: -1 izquierda del pasillo, 1 derecha */
         e.endA = e.es === "r" ? -1 : 1; e.endB = e.cs === "l" ? 1 : -1;
         gut[e.g].push(e);
+      } else if (e.kind === "ee") {
+        e.ya = ay(c.de, e.fa, e); e.yb = ay(c.a, e.fb, e);
       } else if (e.kind === "loop") {
         e.g = e.sd; e.ya = ay(c.de, e.sd, e); e.yb = ay(c.a, e.sd, e);
         e.endA = e.endB = e.sd === "l" ? 1 : -1;
@@ -3876,7 +3887,27 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
     });
     /* columnas y ancho según el número de carriles */
     var GL = Math.max(150, 13 * (L.nl || 0) + 80), GR = Math.max(150, 13 * (L.nr || 0) + 80);
-    L.xL = 20; L.xC = L.xL + NW + GL; L.xR = L.xC + NW + GR; L.W = L.xR + NW + 20; L.GL = GL; L.GR = GR;
+    /* carriles exteriores para las relaciones entre normas laterales: las que comparten norma usan carriles distintos */
+    var usedBy = {}, nO = 0, nB = 0;
+    ees.forEach(function (e) {
+      var ids = [e.c.de, e.c.a], lane = 0, taken = {};
+      ids.forEach(function (id) { (usedBy[id] = usedBy[id] || []).forEach(function (o) { taken[o.lane] = true; }); });
+      while (taken[lane]) lane++;
+      e.lane = lane; nO = Math.max(nO, lane + 1);
+      ids.forEach(function (id) { usedBy[id].push(e); });
+    });
+    var usedB = {};
+    ees.filter(function (e) { return e.opp; }).forEach(function (e) {
+      var lane = 0, taken = {};
+      [e.c.de, e.c.a].forEach(function (id) { (usedB[id] = usedB[id] || []).forEach(function (o) { taken[o.lane2] = true; }); });
+      while (taken[lane]) lane++;
+      e.lane2 = lane; nB = Math.max(nB, lane + 1);
+      [e.c.de, e.c.a].forEach(function (id) { usedB[id].push(e); });
+    });
+    var GO = ees.length ? 22 + 8 * nO : 20;
+    L.GO = GO; L.nO = nO; L.nB = nB;
+    if (nB) L.H = L.Hb + 10 + 8 * nB;
+    L.xL = GO; L.xC = L.xL + NW + GL; L.xR = L.xC + NW + GR; L.W = L.xR + NW + GO; L.GL = GL; L.GR = GR;
     Object.keys(L.pos).forEach(function (id) { L.pos[id][0] = L.side[id] === "L" ? L.xL : L.side[id] === "R" ? L.xR : L.xC; });
     edges.forEach(function (e) { geomEdge(e, L); });
     return edges;
@@ -3912,7 +3943,17 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
   function nodeX(L, id, sd) { var p = L.pos[id]; return sd === "l" ? p[0] : p[0] + NW; }
   function geomEdge(e, L) {
     var c = e.c, P;
-    if (e.kind === "v") {
+    if (e.kind === "ee") {
+      var xa0 = nodeX(L, c.de, e.fa), xb0 = nodeX(L, c.a, e.fb), ya0 = e.ya, yb0 = e.yb;
+      function ox(side, ln) { return side === "L" ? L.xL - 14 - 8 * ln : L.xR + NW + 14 + 8 * ln; }
+      if (!e.opp) {
+        var lxo = ox(e.sa, e.lane);
+        P = [[xa0, ya0], [lxo, ya0], [lxo, yb0], [xb0, yb0]];
+      } else {
+        var yBot = L.Hb + 4 + 8 * e.lane2;
+        P = [[xa0, ya0], [ox(e.sa, e.lane), ya0], [ox(e.sa, e.lane), yBot], [ox(e.sb, e.lane), yBot], [ox(e.sb, e.lane), yb0], [xb0, yb0]];
+      }
+    } else if (e.kind === "v") {
       var A = L.pos[c.de], B = L.pos[c.a], cx = A[0] + NW / 2;
       if (A[1] < B[1]) P = [[cx, A[1] + L.h[c.de]], [cx, B[1]]]; else P = [[cx, A[1]], [cx, B[1] + L.h[c.a]]];
     } else if (e.kind === "loop") {
@@ -4048,7 +4089,7 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
     var L = LAYOUT = layoutAmbito(k), edges = buildEdges(L);
     placeBadges(edges, L);
     svg.setAttribute("viewBox", "0 0 " + L.W + " " + L.H);
-    svg.style.minWidth = Math.round(L.W * 0.82) + "px";
+    svg.style.minWidth = Math.round(L.W * 0.7) + "px";
     var defs = s("defs", null, []);
     ORDEN.forEach(function (kk) {
       [["arr-", 0], ["arrhot-", 1]].forEach(function (v) {
@@ -4057,7 +4098,7 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
       });
     });
     svg.appendChild(defs);
-    svg.appendChild(s("rect", { x: L.xC - 22, y: 0, width: NW + 44, height: L.H - 10, rx: 8, "class": "band " + k }));
+    svg.appendChild(s("rect", { x: L.xC - 22, y: 0, width: NW + 44, height: (L.Hb || L.H) - 10, rx: 8, "class": "band " + k }));
     wrap(AMBITOS[k].nombre, 30).forEach(function (ln, i) { svg.appendChild(s("text", { x: L.xC - 6, y: 20 + i * 13, "class": "bandlabel " + k, text: ln })); });
     var hasL = false, hasR = false;
     Object.keys(L.side).forEach(function (id) { if (L.side[id] === "L") hasL = true; if (L.side[id] === "R") hasR = true; });
@@ -4073,7 +4114,7 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
         s("circle", { r: 11 }), s("text", { text: RELACIONES[c.t].glifo })
       ]);
       svg.appendChild(b);
-      var o = { el: p, badge: b, c: c, bp: e.bp };
+      var o = { el: p, badge: b, c: c, bp: e.bp, ee: e.kind === "ee" };
       [hit, b].forEach(function (t) {
         t.addEventListener("mouseenter", function (e) { state.hoverEdge = o; paint(); tipShow([c], e, t); });
         t.addEventListener("mousemove", function (e) { tipMove(e, t); });
@@ -4107,7 +4148,7 @@ HISTORICAS.forEach(function (h) { if (h.id === "h_dir200664") { h.nota = "Declar
     edgeEls.forEach(function (o) {
       var hot = he ? o === he : (o.c.de === focus || o.c.a === focus);
       var dim = !hot;
-      o.el.setAttribute("class", "edge " + o.c.t + (hot ? " hot" : "") + (dim ? " dim" : ""));
+      o.el.setAttribute("class", "edge " + o.c.t + (o.ee ? " ee" : "") + (hot ? " hot" : "") + (dim ? " dim" : ""));
       o.badge.setAttribute("class", "badge " + o.c.t + (dim ? " dim" : ""));
       var mk = (hot ? "url(#arrhot-" : "url(#arr-") + o.c.t + ")";
       o.el.setAttribute("marker-end", mk);
