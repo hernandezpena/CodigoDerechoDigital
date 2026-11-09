@@ -19,8 +19,7 @@ Guía interactiva para identificar las normas de Derecho digital de la Unión Eu
 
 ## Advertencias
 - Las relaciones entre normas son una lectura propuesta y **provisional**, pendiente de revisión; cada ficha indica qué se ha contrastado y qué queda pendiente, y enlaza a su fuente.
-- No es asesoramiento jurídico ni pretende ser exhaustivo. La capa correspondiente al Derecho internacional no está incluida.
-- Las tipografías se cargan desde Google Fonts; sin conexión se usan las del sistema.
+- No es asesoramiento jurídico ni pretende ser exhaustivo. La capa correspondiente al Derecho internacional no está incluida.- 
 
 ## Licencia
 Pendiente. Hasta que se añada un fichero `LICENSE`, todos los derechos quedan reservados.
