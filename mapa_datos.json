@@ -30,7 +30,7 @@
     }
    ],
    "cambios": "La propuesta de Digital Omnibus (COM(2025) 837, 19 de noviembre de 2025) plantea modificar el RGPD, entre otros aspectos en la definición de dato personal, la notificación de brechas y el tratamiento de datos para entrenar sistemas de IA. Es una propuesta: hoy rige el texto vigente.",
-   "verificado": "Estado del Digital Omnibus (COM(2025) 837; procedimiento 2025/0360/COD): en curso a 7 de noviembre de 2026, sin adopción definitiva comprobada, según la auditoría de esa fecha a partir de EUR-Lex. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Estado del Digital Omnibus (COM(2025) 837; procedimiento 2025/0360/COD): en curso a 7 de noviembre de 2026, sin adopción definitiva comprobada, según la verificación de esa fecha a partir de EUR-Lex. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste del articulado con EUR-Lex.",
    "fuentes": [
     {
@@ -71,7 +71,7 @@
     }
    ],
    "cambios": null,
-   "verificado": "Datos de identificación y fecha de vigencia. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 2 contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673 (Arts. 20, 22 y 24 (redacción por DF 7.ª Ley 2/2023)).",
+   "verificado": "Datos de identificación y fecha de vigencia. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: obligación 2 contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673 (Arts. 20, 22 y 24 (redacción por DF 7.ª Ley 2/2023)).",
    "pendiente": "Contraste de artículos citados con el BOE.",
    "fuentes": [
     {
@@ -106,8 +106,8 @@
     }
    ],
    "cambios": "La propuesta de Digital Omnibus (COM(2025) 837) prevé modificar el art. 5.3 para excluir determinados supuestos relativos a datos personales y articular su tratamiento en el RGPD. Conserva alcance para otros supuestos. Es una propuesta y no una norma vigente. La propuesta de Reglamento ePrivacy de 2017 (COM(2017) 10) fue retirada en 2025.",
-   "verificado": "Estado del Digital Omnibus (COM(2025) 837; procedimiento 2025/0360/COD): en curso a 7 de noviembre de 2026, sin adopción definitiva comprobada, según la auditoría de esa fecha a partir de EUR-Lex. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Consolidación de la auditoría de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758, https://www.boe.es/buscar/act.php?id=BOE-A-2022-10757 (LSSI arts. 38.3.c), d), i), 38.4.d), g), h) y 43.1; Ley 11/2022 art. 114.1).",
-   "pendiente": "La transposición es sectorial y no está concentrada en un único texto español. Correspondencias comprobadas por la auditoría: art. 5.3 con el art. 22.2 de la LSSI; art. 13 (apartados 1, 2 y 4) con los arts. 21 y 22.1 de la LSSI; art. 4 (seguridad y notificación de violaciones) con el art. 60 de la Ley 11/2022; arts. 6 y 9 (tráfico y localización) con el art. 66.2; art. 12 (guías) con el art. 66.3; art. 13 (llamadas no solicitadas) con el art. 66.1. No se certifica una matriz exhaustiva de todos los artículos ni la identidad textual completa.",
+   "verificado": "Estado del Digital Omnibus (COM(2025) 837; procedimiento 2025/0360/COD): en curso a 7 de noviembre de 2026, sin adopción definitiva comprobada, según la verificación de esa fecha a partir de EUR-Lex. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Consolidación de la verificación de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758, https://www.boe.es/buscar/act.php?id=BOE-A-2022-10757 (LSSI arts. 38.3.c), d), i), 38.4.d), g), h) y 43.1; Ley 11/2022 art. 114.1).",
+   "pendiente": "La transposición es sectorial y no está concentrada en un único texto español. Correspondencias comprobadas por la verificación: art. 5.3 con el art. 22.2 de la LSSI; art. 13 (apartados 1, 2 y 4) con los arts. 21 y 22.1 de la LSSI; art. 4 (seguridad y notificación de violaciones) con el art. 60 de la Ley 11/2022; arts. 6 y 9 (tráfico y localización) con el art. 66.2; art. 12 (guías) con el art. 66.3; art. 13 (llamadas no solicitadas) con el art. 66.1. No se certifica una matriz exhaustiva de todos los artículos ni la identidad textual completa.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -167,7 +167,7 @@
     }
    ],
    "cambios": "El Reglamento (UE) 2026/1744, en vigor desde el 27-07-2026, aplazó las obligaciones de alto riesgo (2-12-2027 y 2-08-2028); añadió las prohibiciones del art. 5.1, letras b bis) y b ter) (imágenes íntimas no consentidas y material de abuso sexual de menores generados con IA); sustituyó el art. 4, que pasa a exigir medidas para apoyar la alfabetización en IA, y declaró aplicables los arts. 102 a 110 desde el 27-07-2026.",
-   "verificado": "Fechas del Reglamento 2026/1744 y del aplazamiento de alto riesgo contrastadas en varias fuentes publicadas. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), no abiertas por mí. Auditoría independiente de 8-11-2026: autoridad, fecha 2025-02-02 y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689 (Arts. 64, 70 y 88), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Reg. 2026/1744, art. 1, punto 40 (nuevo art. 113, párr. 3.º, letra a)) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Art. 1, puntos 5, 7 y 40; art. 4).",
+   "verificado": "Fechas del Reglamento 2026/1744 y del aplazamiento de alto riesgo contrastadas en varias fuentes publicadas. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), en revisión. Verificación documental de 8-11-2026: autoridad, fecha 2025-02-02 y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1689 (Arts. 64, 70 y 88), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Reg. 2026/1744, art. 1, punto 40 (nuevo art. 113, párr. 3.º, letra a)) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Art. 1, puntos 5, 7 y 40; art. 4).",
    "pendiente": "Fechas de 2024 y 2025 y alcance exacto de las nuevas prohibiciones y de la alfabetización en IA: contrastar con EUR-Lex.",
    "fuentes": [
     {
@@ -220,7 +220,7 @@
     }
    ],
    "cambios": "Proyecto en fase de enmiendas en el Congreso según fuentes de junio de 2026. Entrará en vigor el día siguiente a su publicación en el BOE una vez concluya la tramitación.",
-   "verificado": "Hitos de tramitación hasta junio de 2026. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), no abiertas por mí. Auditoría independiente de 8-11-2026: obligación 1 contrastada con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF (Arts. 5.1, 5.2 y 6.1 del proyecto).",
+   "verificado": "Hitos de tramitación hasta junio de 2026. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), en revisión. Verificación documental de 8-11-2026: obligación 1 contrastada con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-97-1.PDF (Arts. 5.1, 5.2 y 6.1 del proyecto).",
    "pendiente": "Seguimiento de la tramitación parlamentaria (expediente 121/000096). En la cronología figura en 2026, año de presentación y publicación del proyecto; la aprobación del anteproyecto en 2025 es la primera fase y no una ley.",
    "fuentes": [
     {
@@ -277,7 +277,7 @@
     }
    ],
    "cambios": "La propuesta de Digital Omnibus (COM(2025) 837) integraría en el Data Act el Reglamento de Gobernanza de Datos, la Directiva de datos abiertos y el Reglamento de libre circulación de datos no personales; es una propuesta en tramitación. Por su parte, el propio Data Act modificó el Reglamento (UE) 2017/2394 y la Directiva (UE) 2020/1828.",
-   "verificado": "Fechas contrastadas en el art. 50 del Reglamento según la auditoría del 7 de noviembre de 2026: entrada en vigor el 11-01-2024, aplicación general el 12-09-2025 y régimen específico del art. 3.1 desde el 12-09-2026. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Consolidación de la auditoría de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: autoridad y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2854 (Art. 37) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52025PC0837 (Título de COM(2025) 837; título del Reg. 2023/2854).",
+   "verificado": "Fechas contrastadas en el art. 50 del Reglamento según la verificación del 7 de noviembre de 2026: entrada en vigor el 11-01-2024, aplicación general el 12-09-2025 y régimen específico del art. 3.1 desde el 12-09-2026. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Consolidación de la verificación de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: autoridad y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2854 (Art. 37) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52025PC0837 (Título de COM(2025) 837; título del Reg. 2023/2854).",
    "pendiente": "Designación de la autoridad o del coordinador de datos en España (art. 37; notificación y registro público, art. 37.7): no localizada en fuentes oficiales tras varias comprobaciones. No se asigna por inferencia a la AEPD ni a un ministerio. Alcance de las modificaciones propuestas por COM(2025) 837.",
    "fuentes": [
     {
@@ -326,7 +326,7 @@
     }
    ],
    "cambios": "La propuesta de Digital Omnibus prevé derogar el DGA e incorporar sus reglas al Data Act. Es una propuesta: hoy se aplica como reglamento autónomo.",
-   "verificado": "Fecha de aplicación y contenido de la propuesta de derogación en fuentes publicadas. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Consolidación de la auditoría de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Fecha de aplicación y contenido de la propuesta de derogación en fuentes publicadas. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Consolidación de la verificación de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "La atribución española consta en la Ley 34/2002 (arts. 35.1.c, 35 bis, 37 y 38, tras la Ley 11/2023). Falta contrastar con el BOE consolidado y comprobar si existe un acto de designación distinto.",
    "fuentes": [
     {
@@ -382,7 +382,7 @@
     }
    ],
    "cambios": "«Vigente» no significa que todas sus obligaciones sean ya aplicables: la aplicación general es desde el 26-03-2027, con aplicación diferida de determinadas obligaciones en 2029 y 2031 (art. 105).",
-   "verificado": "Fechas de aplicación escalonada contrastadas con el texto del art. 105 (7 de noviembre de 2026). La entrada en vigor el 26-03-2025 y la publicación el 5-03-2025 constan en la página oficial de la Comisión Europea sobre el EEDS, que no menciona autoridades españolas. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Consolidación de la auditoría de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 1 y fecha 2025-03-25 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R0327 (Arts. 3, 14 y 23) y https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32025R0327 (Art. 105, párr. 1.º; ficha EUR-Lex «Date of effect 25/03/2025; Entry into force»).",
+   "verificado": "Fechas de aplicación escalonada contrastadas con el texto del art. 105 (7 de noviembre de 2026). La entrada en vigor el 26-03-2025 y la publicación el 5-03-2025 constan en la página oficial de la Comisión Europea sobre el EEDS, que no menciona autoridades españolas. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Consolidación de la verificación de alta prioridad «Datos» del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: obligación 1 y fecha 2025-03-25 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R0327 (Arts. 3, 14 y 23) y https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32025R0327 (Art. 105, párr. 1.º; ficha EUR-Lex «Date of effect 25/03/2025; Entry into force»).",
    "pendiente": "Autoridades españolas: sin acto de designación estatal acreditado ni notificación a la Comisión. Cataluña: el Acuerdo GOV/214/2026, de 25-08-2026 (DOGC 9739, de 27-08-2026), atribuye al Departamento de Salud las funciones de autoridad de salud digital de ámbito catalán, a CatSalut la gestión del espacio y a AQuAS el futuro papel de organismo de acceso a datos de salud para el uso secundario; consta por el portal del Espacio Nacional de Datos de Salud, sin que se haya inspeccionado íntegro el DOGC, y no se extiende a toda España.",
    "fuentes": [
     {
@@ -438,7 +438,7 @@
     }
    ],
    "cambios": "En España, el Proyecto de Ley por la que se modifican diversas disposiciones legales para la mejora de la gobernanza democrática en servicios digitales y ordenación de los medios de comunicación (121/000068; Consejo de Ministros de 29-07-2025, BOCG de 29-08-2025) propone adaptar el ordenamiento al DSA y al EMFA; está en tramitación.",
-   "verificado": "Designación de la CNMC como Coordinador de Servicios Digitales, según el convenio CNMC–AEPD publicado en el BOE el 1 de septiembre de 2026 (donde figura la CNMC). Auditoría independiente de 8-11-2026: cambios contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG Congreso A-66-1).",
+   "verificado": "Designación de la CNMC como Coordinador de Servicios Digitales, según el convenio CNMC–AEPD publicado en el BOE el 1 de septiembre de 2026 (donde figura la CNMC). Verificación documental de 8-11-2026: cambios contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG Congreso A-66-1).",
    "pendiente": "Contraste del articulado con EUR-Lex y del estado actual del proyecto de ley español.",
    "fuentes": [
     {
@@ -479,7 +479,7 @@
     }
    ],
    "cambios": "El proyecto de ley para la gobernanza democrática en el entorno digital modifica esta ley para adaptarla al DSA. Las reglas nacionales sobre responsabilidad de los intermediarios quedan desplazadas por el DSA, de aplicación directa.",
-   "verificado": "Modificación prevista por el proyecto de ley, según la nota de Cuatrecasas sobre el texto aprobado por el Consejo de Ministros. Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758 (Arts. 35 y 43.1).",
+   "verificado": "Modificación prevista por el proyecto de ley, según la nota de Cuatrecasas sobre el texto aprobado por el Consejo de Ministros. Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2002-13758 (Arts. 35 y 43.1).",
    "pendiente": "Contraste con el BOE consolidado de los artículos citados y del estado parlamentario del proyecto.",
    "fuentes": [
     {
@@ -563,7 +563,7 @@
      "t": "Aplicación general, con algunas disposiciones aplicables en otras fechas"
     }
    ],
-   "verificado": "Remisión del proyecto de ley español al EMFA, según la nota de Cuatrecasas. Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG A-66-1).",
+   "verificado": "Remisión del proyecto de ley español al EMFA, según la nota de Cuatrecasas. Verificación documental de 8-11-2026: autoridad contrastada con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG A-66-1).",
    "pendiente": "Contraste de las fechas de aplicación de cada disposición con EUR-Lex y de la autoridad nacional designada.",
    "fuentes": [
     {
@@ -645,7 +645,7 @@
     }
    ],
    "cambios": "Texto en tramitación parlamentaria por el procedimiento de competencia legislativa plena en la Comisión de Economía, Comercio y Transformación Digital (según la fuente consultada).",
-   "verificado": "Contenido y fecha de aprobación, según la nota de Cuatrecasas de septiembre de 2025. Auditoría independiente de 8-11-2026: referencia, título y fecha 2025-07-29 contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG Congreso, serie A, núm. 66-1, de 29-8-2025) y https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (Acuerdo de la Mesa y fecha del BOCG).",
+   "verificado": "Contenido y fecha de aprobación, según la nota de Cuatrecasas de septiembre de 2025. Verificación documental de 8-11-2026: referencia, título y fecha 2025-07-29 contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (BOCG Congreso, serie A, núm. 66-1, de 29-8-2025) y https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-66-1.PDF (Acuerdo de la Mesa y fecha del BOCG).",
    "pendiente": "Estado parlamentario actual y texto resultante tras las enmiendas.",
    "fuentes": [
     {
@@ -689,7 +689,7 @@
     }
    ],
    "cambios": "El informe de revisión de la Comisión de 28-04-2026 (COM(2026) 178 final, art. 53 DMA) concluye que el Reglamento es adecuado para su finalidad y no es necesario modificarlo; señala como ámbitos de atención la IA y la computación en nube. Es un documento no normativo.",
-   "verificado": "Resultado de la revisión del DMA (abril de 2026) y calendario de las investigaciones sobre la nube, según Tech Policy Press. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52026DC0178 (Resumen y apartado 4).",
+   "verificado": "Resultado de la revisión del DMA (abril de 2026) y calendario de las investigaciones sobre la nube, según Tech Policy Press. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52026DC0178 (Resumen y apartado 4).",
    "pendiente": "Contraste con el informe oficial de la Comisión y con la decisión sobre la nube.",
    "fuentes": [
     {
@@ -737,7 +737,7 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Contraste de las fechas y del régimen sancionador nacional.",
    "fuentes": [
     {
@@ -772,7 +772,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Contraste del texto consolidado con el BOE y de las reformas posteriores.",
    "fuentes": [
     {
@@ -813,7 +813,7 @@
     }
    ],
    "cambios": "España no ha completado la transposición. El 20 de enero de 2026 la Comisión presentó COM(2026) 13, con modificaciones puntuales de la Directiva, junto con COM(2026) 11 sobre el Cybersecurity Act (CSA2). El 8 de julio de 2026 la Comisión anunció la remisión de España al TJUE por no notificar la transposición completa.",
-   "verificado": "Plazo de transposición vencido el 17-10-2024. Propuesta COM(2026) 13 del 20-01-2026, aún propuesta. Comunicación de la Comisión del 8-07-2026 sobre la remisión de España al TJUE, según la auditoría del 7 de noviembre de 2026 (no abierta por mí). Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). La fuente secundaria nisd2.eu se retira de esta ficha: no es fuente oficial.",
+   "verificado": "Plazo de transposición vencido el 17-10-2024. Propuesta COM(2026) 13 del 20-01-2026, aún propuesta. Comunicación de la Comisión del 8-07-2026 sobre la remisión de España al TJUE, según la verificación del 7 de noviembre de 2026 (en revisión). Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). La fuente secundaria nisd2.eu se retira de esta ficha: no es fuente oficial.",
    "pendiente": "Comprobar directamente la comunicación de la Comisión del 8-07-2026 y el texto de COM(2026) 13. La remisión no prueba registro procesal ni sentencia.",
    "fuentes": [
     {
@@ -866,7 +866,7 @@
      "t": "Aplicación general (diciembre de 2027)"
     }
    ],
-   "verificado": "Contrastado con el texto (arts. 14, 16 y 71) en la auditoría del 7 de noviembre de 2026: notificaciones del art. 14 desde el 11-09-2026 (alerta temprana a las 24 horas, notificación a las 72 horas e informes posteriores) y aplicación general el 11-12-2027. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Capítulo IV desde el 11-06-2026, art. 14 desde el 11-09-2026 y aplicación general desde el 11-12-2027 (art. 71). Auditoría independiente de 8-11-2026: autoridad contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R2847 (Arts. 14 y 16).",
+   "verificado": "Contrastado con el texto (arts. 14, 16 y 71) en la verificación del 7 de noviembre de 2026: notificaciones del art. 14 desde el 11-09-2026 (alerta temprana a las 24 horas, notificación a las 72 horas e informes posteriores) y aplicación general el 11-12-2027. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Capítulo IV desde el 11-06-2026, art. 14 desde el 11-09-2026 y aplicación general desde el 11-12-2027 (art. 71). Verificación documental de 8-11-2026: autoridad contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R2847 (Arts. 14 y 16).",
    "pendiente": "Relación con el Digital Omnibus: una reforma anunciada no altera por sí sola el calendario.",
    "fuentes": [
     {
@@ -916,7 +916,7 @@
     }
    ],
    "cambios": "La propuesta de enero de 2026 sustituiría el Reglamento: ampliaría las funciones operativas de ENISA, revisaría el marco de certificación y crearía un marco sobre riesgos de la cadena de suministro TIC. Está en fase inicial de negociación.",
-   "verificado": "Propuesta COM(2026) 11 del 20-01-2026 (revisión del marco de certificación, refuerzo de ENISA y cadenas de suministro TIC), según la auditoría del 7 de noviembre de 2026. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Propuesta COM(2026) 11 del 20-01-2026 (revisión del marco de certificación, refuerzo de ENISA y cadenas de suministro TIC), según la verificación del 7 de noviembre de 2026. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Texto de la propuesta (si sustituye o modifica el Reglamento) y su avance legislativo.",
    "fuentes": [
     {
@@ -962,7 +962,7 @@
     }
    ],
    "cambios": "El anteproyecto de ley de coordinación y gobernanza de la ciberseguridad deberá articularse con el ENS.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2022/05/03/311/con (Arts. 19, 28, 30-35 (los arts. 36-38 no se refieren al CCN)).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2022/05/03/311/con (Arts. 19, 28, 30-35 (los arts. 36-38 no se refieren al CCN)).",
    "pendiente": "Contraste de las fechas con el BOE y de la coordinación con NIS2 en el texto del anteproyecto.",
    "fuentes": [
     {
@@ -997,7 +997,7 @@
     }
    ],
    "cambios": "No consta su remisión al Congreso. El 8 de julio de 2026 la Comisión Europea anunció la remisión de España al Tribunal de Justicia por no notificar la transposición completa de NIS2. Esa comunicación no acredita el estado posterior del anteproyecto ni del proceso.",
-   "verificado": "Remisión de España al TJUE anunciada por la Comisión el 8-07-2026, según la auditoría del 7 de noviembre de 2026. El estado posterior del anteproyecto no consta. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: resumen y obligación 2 contrastados con https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20260317-referencia-rueda-de-prensa-ministros.aspx (Referencia del Consejo de Ministros de 17-3-2026) y https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2025/140125-rueda-de-prensa-ministos.aspx (Resumen del Consejo de Ministros).",
+   "verificado": "Remisión de España al TJUE anunciada por la Comisión el 8-07-2026, según la verificación del 7 de noviembre de 2026. El estado posterior del anteproyecto no consta. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: resumen y obligación 2 contrastados con https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2026/20260317-referencia-rueda-de-prensa-ministros.aspx (Referencia del Consejo de Ministros de 17-3-2026) y https://www.lamoncloa.gob.es/consejodeministros/resumenes/paginas/2025/140125-rueda-de-prensa-ministos.aspx (Resumen del Consejo de Ministros).",
    "pendiente": "Estado actual del anteproyecto en la documentación oficial del Gobierno, aún sin localizar.",
    "fuentes": [
     {
@@ -1042,7 +1042,7 @@
     }
    ],
    "cambios": "La aceptación de la cartera por determinadas partes usuarias se escalona hasta aproximadamente diciembre de 2027. La preparación de los Estados miembros es desigual.",
-   "verificado": "Plazo de diciembre de 2026 para ofrecer una cartera, según FinTech Global (texto promocional de un proveedor). Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), no abiertas por mí. Auditoría independiente de 8-11-2026: fecha 2026-12-24 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1183 (Art. 5 bis.1; ficha EUR-Lex del Reg. de Ejecución 2024/2977).",
+   "verificado": "Plazo de diciembre de 2026 para ofrecer una cartera, según FinTech Global (texto promocional de un proveedor). Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), en revisión. Verificación documental de 8-11-2026: fecha 2026-12-24 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1183 (Art. 5 bis.1; ficha EUR-Lex del Reg. de Ejecución 2024/2977).",
    "pendiente": "Contraste de los plazos con el Reglamento (UE) 2024/1183 y con los actos de ejecución.",
    "fuentes": [
     {
@@ -1082,7 +1082,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Contraste de la fecha de entrada en vigor con el BOE y de las adaptaciones al eIDAS 2.",
    "fuentes": [
     {
@@ -1121,8 +1121,8 @@
      "t": "Efectos de las previsiones sobre el registro electrónico de apoderamientos, el registro electrónico, el registro de empleados públicos habilitados, el punto de acceso general electrónico y el archivo único electrónico (disp. final 7.ª)"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. Fechas contrastadas: entrada en vigor general el 2-10-2016 y previsiones electrónicas de la disposición final 7.ª desde el 2-04-2021.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. Fechas contrastadas: entrada en vigor general el 2-10-2016 y previsiones electrónicas de la disposición final 7.ª desde el 2-04-2021.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -1146,7 +1146,7 @@
    "aplicaA": "Administración General del Estado, administraciones autonómicas y locales y entidades del sector público institucional.",
    "obligaciones": [
     "Las administraciones que establezcan sedes electrónicas responden de su integridad, veracidad y actualización, y la ley regula sus sistemas de identificación y firma (arts. 38, 40 y 42-43). No impone literalmente una sede propia a cada entidad.",
-    "En la actuación administrativa automatizada se fijarán previamente los órganos responsables de las especificaciones, la programación, el mantenimiento, la supervisión, el control de calidad y, en su caso, la auditoría del sistema y del código fuente, así como el órgano responsable a efectos de impugnación (art. 41.2).",
+    "En la actuación administrativa automatizada se fijarán previamente los órganos responsables de las especificaciones, la programación, el mantenimiento, la supervisión, el control de calidad y, en su caso, la verificación del sistema y del código fuente, así como el órgano responsable a efectos de impugnación (art. 41.2).",
     "El art. 156 regula el Esquema Nacional de Interoperabilidad (ENI) y su apartado 2 el Esquema Nacional de Seguridad (ENS), sin perjuicio del desarrollo de ambos por sus reglamentos. El art. 155 se refiere a las transmisiones de datos entre administraciones."
    ],
    "autoridad": "Administraciones públicas; control jurisdiccional contencioso-administrativo.",
@@ -1156,8 +1156,8 @@
      "t": "Entrada en vigor"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: resumen contrastado con https://www.boe.es/eli/es/l/2015/10/01/40/con (Arts. 155-158).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Verificación documental de 8-11-2026: resumen contrastado con https://www.boe.es/eli/es/l/2015/10/01/40/con (Arts. 155-158).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -1195,8 +1195,8 @@
      "t": "Entrada en vigor"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí).",
-   "pendiente": "Publicación (31-03-2021) y entrada en vigor (2-04-2021) contrastadas según la auditoría del 8-11-2026. No se declara básico cada precepto sin examen individual: la distribución se rige por la disposición final primera.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión).",
+   "pendiente": "Publicación (31-03-2021) y entrada en vigor (2-04-2021) contrastadas según la verificación del 8-11-2026. No se declara básico cada precepto sin examen individual: la distribución se rige por la disposición final primera.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -1235,8 +1235,8 @@
     }
    ],
    "cambios": "La Comisión Europea tiene en preparación el Digital Fairness Act, sobre patrones oscuros, diseño adictivo y personalización, entre otros asuntos. Es una iniciativa y no una reforma aprobada: no hay propuesta ni fecha cierta de adopción.",
-   "verificado": "Carácter de iniciativa en preparación del Digital Fairness Act, según la auditoría del 7 de noviembre de 2026. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rdlg/2007/11/16/1/con, https://www.boe.es/eli/es/rd/2023/11/20/829/con (TRLGDCU arts. 47, 49 y 52 bis (la competencia está en el art. 52 bis; los arts. 47 y 49 tipifican infracciones y sanciones); RD 829/2023, art. 1).",
-   "pendiente": "Régimen de contenidos y servicios digitales reformado por el RDL 7/2021 (arts. 114 y siguientes), con efectos generales desde el 1-01-2022 según la auditoría. La transitoriedad específica debe comprobarse en el BOE: no equivale a la misma fecha de efectos para todos los contratos o medidas.",
+   "verificado": "Carácter de iniciativa en preparación del Digital Fairness Act, según la verificación del 7 de noviembre de 2026. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rdlg/2007/11/16/1/con, https://www.boe.es/eli/es/rd/2023/11/20/829/con (TRLGDCU arts. 47, 49 y 52 bis (la competencia está en el art. 52 bis; los arts. 47 y 49 tipifican infracciones y sanciones); RD 829/2023, art. 1).",
+   "pendiente": "Régimen de contenidos y servicios digitales reformado por el RDL 7/2021 (arts. 114 y siguientes), con efectos generales desde el 1-01-2022 según la verificación. La transitoriedad específica debe comprobarse en el BOE: no equivale a la misma fecha de efectos para todos los contratos o medidas.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -1279,7 +1279,7 @@
      "t": "Aplicación de las disposiciones nacionales de transposición"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste de las fechas de transposición y aplicación. Transposición principal en España: art. 16 del RDL 7/2021, que modifica el TRLGDCU; no se afirma la exhaustividad de la normativa española.",
    "fuentes": [
     {
@@ -1326,8 +1326,8 @@
      "t": "Fin del plazo de transposición"
     }
    ],
-   "verificado": "Fechas de adopción (17-04-2019), publicación (17-05-2019), entrada en vigor (6-06-2019) y transposición (7-06-2021), arts. 29.1 y 31; existencia de los arts. 3-4, 15, 17-23 y 29-31, según la auditoría del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, no abiertas por mí). Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Recomprobación de la auditoría de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión final de la auditoría de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Los artículos citados en la ficha (3, 4, 15 y 17, además de los arts. 18-23 sobre remuneración) coinciden con el contenido que la auditoría confirma en el texto oficial; los arts. 1-2 y 26 no figuran entre los comprobados por ella. Transposición española: el RDL 24/2021 (libro cuarto, arts. 65-80) es la transposición principal identificada y el art. 80 modifica el TRLPI; no se ha comprobado que sea la única norma interna ni las notificaciones de transposición, por lo que no debe darse la lista por cerrada. Según la consulta de las medidas nacionales notificadas (EUR-Lex), España figura con tres asientos: el RDL 24/2021, su corrección de errores y la resolución de convalidación; solo el libro cuarto del RDL es transposición material. La lista no certifica el cumplimiento sustantivo artículo por artículo.",
+   "verificado": "Fechas de adopción (17-04-2019), publicación (17-05-2019), entrada en vigor (6-06-2019) y transposición (7-06-2021), arts. 29.1 y 31; existencia de los arts. 3-4, 15, 17-23 y 29-31, según la verificación del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, en revisión). Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Recomprobación de la verificación de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión final de la verificación de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Los artículos citados en la ficha (3, 4, 15 y 17, además de los arts. 18-23 sobre remuneración) coinciden con el contenido que la verificación confirma en el texto oficial; los arts. 1-2 y 26 no figuran entre los comprobados por ella. Transposición española: el RDL 24/2021 (libro cuarto, arts. 65-80) es la transposición principal identificada y el art. 80 modifica el TRLPI; no se ha comprobado que sea la única norma interna ni las notificaciones de transposición, por lo que no debe darse la lista por cerrada. Según la consulta de las medidas nacionales notificadas (EUR-Lex), España figura con tres asientos: el RDL 24/2021, su corrección de errores y la resolución de convalidación; solo el libro cuarto del RDL es transposición material. La lista no certifica el cumplimiento sustantivo artículo por artículo.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -1365,7 +1365,7 @@
      "t": "Entrada en vigor general del RDL 24/2021, que transpone la Directiva 2019/790 (con excepciones de su disposición final décima)"
     }
    ],
-   "verificado": "Entrada en vigor general del RDL 24/2021 el 4-11-2021 y autoridades de los arts. 193-195, según la auditoría del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, no abiertas por mí). Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Entrada en vigor general del RDL 24/2021 el 4-11-2021 y autoridades de los arts. 193-195, según la verificación del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, en revisión). Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Comprobar cada fecha de la ficha contra el BOE consolidado. La denominación del ministerio puede cambiar con las reestructuraciones, y la Comisión no agota la competencia administrativa, civil y penal en propiedad intelectual.",
    "fuentes": [
     {
@@ -1412,7 +1412,7 @@
      "t": "Fecha límite máxima del régimen transitorio de los proveedores que ya prestaban servicios conforme al Derecho nacional (art. 143.3); los Estados podían acortarlo"
     }
    ],
-   "verificado": "Calendario del art. 149 (29-06-2023, 30-06-2024 y 30-12-2024, sin perjuicio de las excepciones del art. 149.4) y régimen transitorio español del art. 143.3 hasta el 1-07-2026, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Precisiones de la revisión de pagos y criptoactivos del 8-11-2026 (comprobación directa de los textos oficiales de MiCA, DORA, la Directiva (UE) 2023/2225 y el Real Decreto-ley 19/2018, según indica la propia revisión; no los he abierto yo). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva). Auditoría independiente de 8-11-2026: fecha 2026-07-01 contrastada con https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32023R1114 (Art. 143.3 (ficha EUR-Lex)).",
+   "verificado": "Calendario del art. 149 (29-06-2023, 30-06-2024 y 30-12-2024, sin perjuicio de las excepciones del art. 149.4) y régimen transitorio español del art. 143.3 hasta el 1-07-2026, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Precisiones de la revisión de pagos y criptoactivos del 8-11-2026 (comprobación directa de los textos oficiales de MiCA, DORA, la Directiva (UE) 2023/2225 y el Real Decreto-ley 19/2018, según indica la propia revisión;, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva). Verificación documental de 8-11-2026: fecha 2026-07-01 contrastada con https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32023R1114 (Art. 143.3 (ficha EUR-Lex)).",
    "pendiente": "Reparto exacto de competencias entre la CNMV y el Banco de España. La continuación durante el régimen transitorio solo alcanza a los prestadores que reúnan las condiciones legales, salvo autorización o denegación previa.",
    "fuentes": [
     {
@@ -1457,8 +1457,8 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Fechas (16-01-2023 y 17-01-2025, art. 64) y reparto de autoridades por clase de entidad, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (no abierto por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
-   "pendiente": "Las AES publicaron el 18-11-2025 una lista de proveedores terceros de TIC críticos, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Consultar la lista vigente y aplicar el art. 46 de DORA para las autoridades nacionales por sector. No confundir la designación de proveedores críticos con la supervisión ordinaria de las entidades. La lista de autoridades no es exhaustiva para todas las categorías.",
+   "verificado": "Fechas (16-01-2023 y 17-01-2025, art. 64) y reparto de autoridades por clase de entidad, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
+   "pendiente": "Las AES publicaron el 18-11-2025 una lista de proveedores terceros de TIC críticos, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Consultar la lista vigente y aplicar el art. 46 de DORA para las autoridades nacionales por sector. No confundir la designación de proveedores críticos con la supervisión ordinaria de las entidades. La lista de autoridades no es exhaustiva para todas las categorías.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -1515,7 +1515,7 @@
     }
    ],
    "cambios": "Tras el acuerdo provisional del 27 de noviembre de 2025, el Consejo votó el 29-10-2026 su posición en primera lectura sobre PSD3 (2023/0209(COD)) y el PSR (2023/0210(COD)). No es la adopción legislativa definitiva: ni el acuerdo ni la posición del Consejo son derecho aplicable y PSD2 sigue vigente.",
-   "verificado": "Acuerdo provisional del 27-11-2025, según el comunicado del Consejo citado por la auditoría del 7 de noviembre de 2026 (no abierto por mí). PSD2 sigue vigente. Posición del Consejo en primera lectura sobre el PSR (29-10-2026) y publicación de las posiciones del Consejo sobre PSD3 y PSR (5-11-2026), según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pude abrirla: error del sitio).",
+   "verificado": "Acuerdo provisional del 27-11-2025, según el comunicado del Consejo citado por la verificación del 7 de noviembre de 2026 (en revisión). PSD2 sigue vigente. Posición del Consejo en primera lectura sobre el PSR (29-10-2026) y publicación de las posiciones del Consejo sobre PSD3 y PSR (5-11-2026), según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pudo abrirse: error del sitio).",
    "pendiente": "Segunda lectura del Parlamento Europeo (fecha indicativa: 14-12-2026), aprobación definitiva, firma, publicación y calendario de aplicación de PSD3 y del PSR: pendientes. No atribuir todavía obligaciones directamente aplicables al futuro PSR ni dar por sustituido PSD2.",
    "fuentes": [
     {
@@ -1570,7 +1570,7 @@
     }
    ],
    "cambios": "Las posiciones del Consejo y del Parlamento difieren. El texto definitivo y los plazos de aplicación dependen de su aprobación. El procedimiento 2023/0205(COD) figura en curso.",
-   "verificado": "Propuesta COM(2023) 360 final, del 28-06-2023, y orientación del Consejo del 4-12-2024, con fuentes institucionales citadas por la auditoría del 7 de noviembre de 2026. El resumen de posiciones atribuido a Freshfields no se da por verificado. Según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí), la ficha del Observatorio Legislativo mantiene el procedimiento abierto, a la espera de la posición del Parlamento Europeo en primera lectura. Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pude abrirla: error del sitio).",
+   "verificado": "Propuesta COM(2023) 360 final, del 28-06-2023, y orientación del Consejo del 4-12-2024, con fuentes institucionales citadas por la verificación del 7 de noviembre de 2026. El resumen de posiciones atribuido a Freshfields no se da por verificado. Según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión), la ficha del Observatorio Legislativo mantiene el procedimiento abierto, a la espera de la posición del Parlamento Europeo en primera lectura. Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pudo abrirse: error del sitio).",
    "pendiente": "El procedimiento 2023/0205(COD) sigue en curso según la segunda verificación; no se presenta como reglamento vigente. Último hito de la negociación posterior a la orientación general del Consejo (4-12-2024): no comprobado. Comprobar el Observatorio Legislativo y las actas de los trílogos.",
    "fuentes": [
     {
@@ -1619,7 +1619,7 @@
      "t": "Entrada en vigor"
     }
    ],
-   "verificado": "Publicación el 14-11-2020, entrada en vigor el 15-11-2020 (disposición final cuarta) y reparto de funciones entre la Secretaría General del Tesoro y los supervisores (arts. 3, 5, 6 y 23), según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí).",
+   "verificado": "Publicación el 14-11-2020, entrada en vigor el 15-11-2020 (disposición final cuarta) y reparto de funciones entre la Secretaría General del Tesoro y los supervisores (arts. 3, 5, 6 y 23), según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión).",
    "pendiente": "No es la norma principal de transposición de PSD2, que es el RDL 19/2018: regula el espacio controlado de pruebas.",
    "fuentes": [
     {
@@ -1659,7 +1659,7 @@
      "t": "Plazo de transposición"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -1694,7 +1694,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 3 contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806 (Arts. 31, 32, 33 y 40).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: obligación 3 contrastada con https://www.boe.es/buscar/act.php?id=BOE-A-2021-8806 (Arts. 31, 32, 33 y 40).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -1734,7 +1734,7 @@
     }
    ],
    "cambios": "Está en vigor desde el 8-12-2024, pero su transposición es exigible hasta el 9-12-2026 y su aplicación temporal alcanza a los productos introducidos en el mercado o puestos en servicio después del 8-12-2026; no equivale a su plena aplicación nacional actual. La rectificación de errores publicada en el DOUE el 7-05-2026 afecta al art. 2.1 y a la fecha del ámbito temporal.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Estado de la transposición en España y contraste con EUR-Lex.",
    "fuentes": [
     {
@@ -1805,7 +1805,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), no abiertas por mí. Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2026/07/22/606/con (RD 606/2026, art. 1).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de plataformas y mercados digitales del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda comprobación del 8-11-2026 con fuentes oficiales citadas en ella (EUR-Lex, BOE, Congreso, Consejo de Ministros, Comisión), en revisión. Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2026/07/22/606/con (RD 606/2026, art. 1).",
    "pendiente": "Alcance exacto del art. 23 y desarrollo posterior.",
    "fuentes": [
     {
@@ -1850,8 +1850,8 @@
     }
    ],
    "cambios": "El Digital Omnibus propone integrar esta directiva en el Reglamento de Datos. Es una propuesta y no una norma vigente.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 2 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32019L1024 (Art. 6.1 y 6.2).",
-   "pendiente": "Seguimiento de la tramitación: a 7 de noviembre de 2026 la derogación de esta directiva sigue propuesta y no adoptada (procedimiento 2025/0360/COD), según la auditoría.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: obligación 2 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32019L1024 (Art. 6.1 y 6.2).",
+   "pendiente": "Seguimiento de la tramitación: a 7 de noviembre de 2026 la derogación de esta directiva sigue propuesta y no adoptada (procedimiento 2025/0360/COD), según la verificación.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -1885,7 +1885,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 1 y obligación 3 contrastados con https://www.boe.es/eli/es/l/2007/11/16/37/con (Arts. 3 ter, 5 y 6) y https://www.boe.es/eli/es/l/2007/11/16/37/con (Art. 7.1).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: obligación 1 y obligación 3 contrastados con https://www.boe.es/eli/es/l/2007/11/16/37/con (Arts. 3 ter, 5 y 6) y https://www.boe.es/eli/es/l/2007/11/16/37/con (Art. 7.1).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -2035,8 +2035,8 @@
      "t": "Plazo para identificar entidades críticas"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí).",
-   "pendiente": "España: Proyecto de Ley de protección y resiliencia de las entidades críticas (expediente 121/000088), presentado el 18-03-2026 y en tramitación en la Comisión de Interior del Congreso (fase de enmiendas); no consta ley promulgada en el expediente consultado por la auditoría.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión).",
+   "pendiente": "España: Proyecto de Ley de protección y resiliencia de las entidades críticas (expediente 121/000088), presentado el 18-03-2026 y en tramitación en la Comisión de Interior del Congreso (fase de enmiendas); no consta ley promulgada en el expediente consultado por la verificación.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2070,7 +2070,7 @@
     }
    ],
    "cambios": "La Directiva NIS2 derogó la NIS1 desde el 18-10-2024. Este real decreto-ley sigue siendo norma española propia hasta su modificación o derogación expresa. No remite a NIS2. El anteproyecto de ley de coordinación y gobernanza de la ciberseguridad prevé su sustitución, pero no se ha confirmado su aprobación.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Falta comprobar el texto consolidado y la situación de derogación o adaptación por la normativa española posterior a 2025: que NIS2 derogue la Directiva NIS1 no deroga automáticamente este real decreto-ley, pero tampoco acredita por sí solo su vigencia actual.",
    "fuentes": [
     {
@@ -2113,8 +2113,8 @@
     }
    ],
    "cambios": "El Reglamento lleva la numeración 2025/38 por su publicación en 2025, pero se adoptó el 19-12-2024; en la línea de tiempo figura en 2024, año de adopción.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Falta comprobar el despliegue efectivo de los centros y de los servicios de la Reserva. La auditoría fija la entrada en vigor el 5-02-2025; conservo el 4-02-2025 (vigésimo día desde la publicación del 15-01-2025) a la espera de contrastarlo con el art. 26.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Falta comprobar el despliegue efectivo de los centros y de los servicios de la Reserva. La verificación fija la entrada en vigor el 5-02-2025; se conserva el 4-02-2025 (vigésimo día desde la publicación del 15-01-2025) a la espera de contrastarlo con el art. 26.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2157,8 +2157,8 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
-   "pendiente": "Directiva (UE) 2023/2673: medidas nacionales a adoptar hasta el 19-12-2025 y aplicables desde el 19-06-2026, según la auditoría. Falta confirmar la transposición española efectiva. Transposición española: la Ley 3/2014 modificó el TRLGDCU (disposición final quinta) y el RDL 24/2021 transpuso la Directiva 2019/2161. Es la lista confirmada por la auditoría, no un catálogo exhaustivo.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
+   "pendiente": "Directiva (UE) 2023/2673: medidas nacionales a adoptar hasta el 19-12-2025 y aplicables desde el 19-06-2026, según la verificación. Falta confirmar la transposición española efectiva. Transposición española: la Ley 3/2014 modificó el TRLGDCU (disposición final quinta) y el RDL 24/2021 transpuso la Directiva 2019/2161. Es la lista confirmada por la verificación, no un catálogo exhaustivo.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2192,7 +2192,7 @@
     }
    ],
    "cambios": "La Comisión ha anunciado la Digital Fairness Act, que abordaría los patrones oscuros, el diseño adictivo y la personalización abusiva. Es una iniciativa en preparación y no una modificación aprobada.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Seguimiento del Digital Fairness Act (iniciativa en preparación a 7 de noviembre de 2026). Transposición española: Ley 29/2009 (disposición final tercera), que modificó la Ley 3/1991 de Competencia Desleal y el TRLGDCU; la Directiva 2019/2161 se incorporó por el RDL 24/2021. Es una lista mínima confirmada, no certificación exhaustiva.",
    "fuentes": [
     {
@@ -2231,7 +2231,7 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual. Transposición principal en España: art. 16 del RDL 7/2021, que modifica el TRLGDCU; no se afirma la exhaustividad de la normativa española.",
    "fuentes": [
     {
@@ -2269,8 +2269,8 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
-   "pendiente": "Aplicación general desde el 28-06-2025 (art. 31), con regímenes transitorios. En España se transpone principalmente en el Título I y la disposición final 15.ª de la Ley 11/2023; según la auditoría, el RD 143/2026 creó la unidad técnica de coordinación de vigilancia en ejecución de sus arts. 27 y 28 (norma no abierta por mí). La transposición material no equivale a una exhaustividad notificada.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
+   "pendiente": "Aplicación general desde el 28-06-2025 (art. 31), con regímenes transitorios. En España se transpone principalmente en el Título I y la disposición final 15.ª de la Ley 11/2023; según la verificación, el RD 143/2026 creó la unidad técnica de coordinación de vigilancia en ejecución de sus arts. 27 y 28 (norma en revisión). La transposición material no equivale a una exhaustividad notificada.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2302,8 +2302,8 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: resumen contrastado con https://www.boe.es/eli/es/l/2023/05/08/11/con (Título I (art. 1) y DF 5.ª).",
-   "pendiente": "Aplicación general desde el 28-06-2025 (art. 31), con regímenes transitorios. En España se transpone principalmente en el Título I y la disposición final 15.ª de la Ley 11/2023; según la auditoría, el RD 143/2026 creó la unidad técnica de coordinación de vigilancia en ejecución de sus arts. 27 y 28 (norma no abierta por mí). La transposición material no equivale a una exhaustividad notificada.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: resumen contrastado con https://www.boe.es/eli/es/l/2023/05/08/11/con (Título I (art. 1) y DF 5.ª).",
+   "pendiente": "Aplicación general desde el 28-06-2025 (art. 31), con regímenes transitorios. En España se transpone principalmente en el Título I y la disposición final 15.ª de la Ley 11/2023; según la verificación, el RD 143/2026 creó la unidad técnica de coordinación de vigilancia en ejecución de sus arts. 27 y 28 (norma en revisión). La transposición material no equivale a una exhaustividad notificada.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -2340,8 +2340,8 @@
      "t": "Plazo de transposición"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Recomprobación de la auditoría de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual. Transposición española: la Ley 1/2019 es la norma central; no se han comprobado todas las notificaciones de transposición ni posibles normas instrumentales, por lo que no debe afirmarse que la lista sea exhaustiva. Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); se mantiene pendiente lo no verificado. La Ley 1/2019 figura también en la ficha española de medida nacional de transposición de EUR-Lex; eso identifica la medida principal, pero no acredita que sea la única ni agota las normas conexas.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Recomprobación de la verificación de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual. Transposición española: la Ley 1/2019 es la norma central; no se han comprobado todas las notificaciones de transposición ni posibles normas instrumentales, por lo que no debe afirmarse que la lista sea exhaustiva. Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); se mantiene pendiente lo no verificado. La Ley 1/2019 figura también en la ficha española de medida nacional de transposición de EUR-Lex; eso identifica la medida principal, pero no acredita que sea la única ni agota las normas conexas.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2373,8 +2373,8 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: obligación 1 contrastada con https://www.boe.es/eli/es/l/2019/02/20/1/con (Arts. 8, 9, 10 y 15).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. La numeración exacta de los artículos debe comprobarse en el BOE.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: obligación 1 contrastada con https://www.boe.es/eli/es/l/2019/02/20/1/con (Arts. 8, 9, 10 y 15).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. La numeración exacta de los artículos debe comprobarse en el BOE.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -2411,7 +2411,7 @@
     }
    ],
    "cambios": "El 9 de julio de 2026 el Pleno del Parlamento Europeo respaldó el inicio de las negociaciones interinstitucionales sobre el euro digital (416 votos a favor, 169 en contra y 22 abstenciones). No equivale a la aprobación definitiva del reglamento.",
-   "verificado": "Votación del 9-07-2026 sobre la apertura de negociaciones, según el comunicado del Parlamento citado por la auditoría del 7 de noviembre de 2026 (no abierto por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
+   "verificado": "Votación del 9-07-2026 sobre la apertura de negociaciones, según el comunicado del Parlamento citado por la verificación del 7 de noviembre de 2026 (en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
    "pendiente": "Estado actual de las negociaciones con el Consejo, adopción definitiva y fecha de aplicación: no acreditados.",
    "fuentes": [
     {
@@ -2458,8 +2458,8 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Plazo de transposición (20-11-2025) y aplicación (20-11-2026, con reglas transitorias para los contratos preexistentes), arts. 47-48, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (no abierto por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pude abrirla: error del sitio).",
-   "pendiente": "Transposición española: no se ha acreditado una norma definitiva, completa y vigente. No atribuir a la Ley 16/2011 la transposición de una directiva posterior. Corrección de errores publicada el 22-09-2026, que debe tenerse en cuenta al trabajar con el art. 2.7, según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Plazo de transposición (20-11-2025) y aplicación (20-11-2026, con reglas transitorias para los contratos preexistentes), arts. 47-48, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva). Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pudo abrirse: error del sitio).",
+   "pendiente": "Transposición española: no se ha acreditado una norma definitiva, completa y vigente. No atribuir a la Ley 16/2011 la transposición de una directiva posterior. Corrección de errores publicada el 22-09-2026, que debe tenerse en cuenta al trabajar con el art. 2.7, según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2496,8 +2496,8 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Aplicación desde el 3-01-2018 (art. 93.1), según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí).",
-   "pendiente": "Texto consolidado vigente. En España, la Ley 6/2023 es el marco principal actual, pero no agota la transposición y el desarrollo: revisar también el RDL 14/2018, el RD 217/2008 y la normativa modificativa, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí).",
+   "verificado": "Aplicación desde el 3-01-2018 (art. 93.1), según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión).",
+   "pendiente": "Texto consolidado vigente. En España, la Ley 6/2023 es el marco principal actual, pero no agota la transposición y el desarrollo: revisar también el RDL 14/2018, el RD 217/2008 y la normativa modificativa, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión).",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2537,7 +2537,7 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Aplicación desde el 23-03-2023, con las excepciones del art. 19.2, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
+   "verificado": "Aplicación desde el 23-03-2023, con las excepciones del art. 19.2, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
    "pendiente": "Fechas comprobadas en la revisión del 8-11-2026: adopción el 30-05-2022, publicación el 2-06-2022 y aplicación principal el 23-03-2023 (excepciones del art. 19). Quedan por revisar las reformas posteriores.",
    "fuentes": [
     {
@@ -2583,7 +2583,7 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Aplicación desde el 30-12-2024, con derogación del Reglamento (UE) 2015/847, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
+   "verificado": "Aplicación desde el 30-12-2024, con derogación del Reglamento (UE) 2015/847, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
    "pendiente": "Fechas comprobadas en la revisión del 8-11-2026: adopción el 31-05-2023, publicación el 9-06-2023, entrada en vigor el 29-06-2023 y aplicación el 30-12-2024. Quedan por revisar las reformas posteriores.",
    "fuentes": [
     {
@@ -2634,7 +2634,7 @@
      "t": "Aplicación a las entidades del art. 3.3.n) y o)"
     }
    ],
-   "verificado": "Aplicación general desde el 10-07-2027 y excepción del 10-07-2029 en el art. 90 para las entidades del art. 3.3.n) y o), según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
+   "verificado": "Aplicación general desde el 10-07-2027 y excepción del 10-07-2029 en el art. 90 para las entidades del art. 3.3.n) y o), según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
    "pendiente": "Fechas comprobadas en la revisión del 8-11-2026: adopción el 31-05-2024, publicación el 19-06-2024, entrada en vigor el 9-07-2024, aplicación general el 10-07-2027 y, para las entidades del art. 3.3.n y o, el 10-07-2029. Quedan por revisar las reformas posteriores.",
    "fuentes": [
     {
@@ -2673,7 +2673,7 @@
     }
    ],
    "cambios": "El Reglamento (UE) 2024/1624 será aplicable desde el 10 de julio de 2027, con una excepción el 10 de julio de 2029 en su art. 90. Su articulación con la Ley 10/2010 exige revisar las adecuaciones nacionales, sin presumir una derogación íntegra automática.",
-   "verificado": "Enlace a la norma y calendario del Reglamento 2024/1624, según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva). Auditoría independiente de 8-11-2026: resumen y ámbito de aplicación contrastados con https://www.boe.es/eli/es/l/2010/04/28/10/con (Art. 2.1.z) y 1.6) y https://www.boe.es/eli/es/l/2010/04/28/10/con (Art. 2.1.z)).",
+   "verificado": "Enlace a la norma y calendario del Reglamento 2024/1624, según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva). Verificación documental de 8-11-2026: resumen y ámbito de aplicación contrastados con https://www.boe.es/eli/es/l/2010/04/28/10/con (Art. 2.1.z) y 1.6) y https://www.boe.es/eli/es/l/2010/04/28/10/con (Art. 2.1.z)).",
    "pendiente": "Fechas comprobadas en la revisión del 8-11-2026: adopción el 28-04-2010, publicación el 29-04-2010 y entrada en vigor el 30-04-2010, con modificaciones posteriores. El Real Decreto 813/2026, de 7 de octubre (BOE de 8-10-2026; en vigor desde el 28-10-2026), modifica el Reglamento de la Ley 10/2010 (RD 304/2014): diligencia debida, conservación, control interno y sanciones financieras internacionales (nota de Garrigues). Su condición de transposición parcial de la Directiva (UE) 2024/1640 consta solo en el informe aportado.",
    "fuentes": [
     {
@@ -2719,8 +2719,8 @@
      "t": "Aplicación de los arts. 3.1 a 3.4 y 17"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Entrada en vigor el 11-04-2024, aplicación general desde el 12-07-2024 y arts. 3.1 a 3.4 y 17 desde el 12-01-2025, según la auditoría.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Entrada en vigor el 11-04-2024, aplicación general desde el 12-07-2024 y arts. 3.1 a 3.4 y 17 desde el 12-01-2025, según la verificación.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2753,7 +2753,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Auditoría independiente de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2010/01/08/4/con (—).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Verificación documental de 8-11-2026: autoridad contrastada con https://www.boe.es/eli/es/rd/2010/01/08/4/con (—).",
    "pendiente": "Versión consolidada vigente y modificaciones posteriores.",
    "fuentes": [
     {
@@ -2791,8 +2791,8 @@
      "t": "Plazo del sistema técnico del principio de «solo una vez»"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Texto normativo contrastado por la auditoría del 8-11-2026: el Reglamento está vigente y sujeto al calendario escalonado del art. 39. La implantación efectiva por autoridades concretas exige una evaluación separada y no está acreditada.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Texto normativo contrastado por la verificación del 8-11-2026: el Reglamento está vigente y sujeto al calendario escalonado del art. 39. La implantación efectiva por autoridades concretas exige una evaluación separada y no está acreditada.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -2825,8 +2825,8 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Norma vigente; publicación en el BOE el 10-12-2013 y entrada en vigor según la disposición final novena, con las obligaciones de transparencia y acceso de los arts. 5-22 (auditoría del 8-11-2026). Se ha comprobado el texto normativo, no el cumplimiento operativo de cada entidad.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Norma vigente; publicación en el BOE el 10-12-2013 y entrada en vigor según la disposición final novena, con las obligaciones de transparencia y acceso de los arts. 5-22 (verificación del 8-11-2026). Se ha comprobado el texto normativo, no el cumplimiento operativo de cada entidad.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -2865,7 +2865,7 @@
     }
    ],
    "cambios": "La propuesta de Ley de Redes Digitales (Digital Networks Act) de enero de 2026 sustituiría esta directiva por un reglamento. Es una propuesta en tramitación.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -2900,7 +2900,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -2935,7 +2935,7 @@
     }
    ],
    "cambios": "La propuesta de Ley de Redes Digitales (COM(2026) 16, de 21-01-2026) prevé modificar este reglamento; es una propuesta y la modificación no está incorporada.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52026PC0016 (Título de la propuesta).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:52026PC0016 (Título de la propuesta).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -2978,8 +2978,8 @@
     }
    ],
    "cambios": "El Reglamento (UE) 2024/1309 deroga la Directiva 2014/61/UE desde el 12-11-2025 (art. 18.1, en la redacción de la corrección de errores publicada en el DO L 2024/90315, de 24-05-2024) y mantiene determinados artículos hasta el 12-02-2026 y el 12-05-2026 (art. 18.2).",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1309R(01) (Corrección de errores, art. 18.1).",
-   "pendiente": "Aplicación general desde el 12-11-2025; arts. 10.1 a 10.3 desde el 12-02-2026 y otros artículos desde el 12-05-2026. La derogación de la Directiva 2014/61/UE tiene efecto desde el 12-11-2025 conforme a la corrección oficial de errores del art. 18.1 (el texto original decía 11-05-2024), según la auditoría.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024R1309R(01) (Corrección de errores, art. 18.1).",
+   "pendiente": "Aplicación general desde el 12-11-2025; arts. 10.1 a 10.3 desde el 12-02-2026 y otros artículos desde el 12-05-2026. La derogación de la Directiva 2014/61/UE tiene efecto desde el 12-11-2025 conforme a la corrección oficial de errores del art. 18.1 (el texto original decía 11-05-2024), según la verificación.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -3012,7 +3012,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Compatibilidad con el Derecho de la Unión: el art. 15.1 de la Directiva 2002/58/CE, interpretado por el Tribunal de Justicia (C-623/17 y asuntos acumulados, sentencias de 6-10-2020; C-140/20, sentencia de 5-04-2022), limita la conservación general e indiscriminada y exige excepciones estrictas. Requiere un análisis artículo por artículo y del acceso a los datos; no se declara la ley válida ni inválida en bloque.",
    "fuentes": [
     {
@@ -3046,8 +3046,8 @@
     }
    ],
    "cambios": "Es una propuesta y no una norma aprobada: hasta su adopción siguen vigentes el Código, la Ley 11/2022 y los demás instrumentos citados.",
-   "verificado": "Fecha de la propuesta y procedimiento 2026/0013(COD), según fuentes secundarias. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
-   "pendiente": "La revisión del 8-11-2026 (fuente primaria citada en la auditoría, no abierta por mí) identifica el número COM(2026) 16, el procedimiento 2026/0013/COD y la lista de instrumentos. Falta seguir la fase legislativa posterior.",
+   "verificado": "Fecha de la propuesta y procedimiento 2026/0013(COD), según fuentes secundarias. Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Revisión 7 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
+   "pendiente": "La revisión del 8-11-2026 (fuente primaria citada en la verificación, en revisión) identifica el número COM(2026) 16, el procedimiento 2026/0013/COD y la lista de instrumentos. Falta seguir la fase legislativa posterior.",
    "fuentes": [
     {
      "t": "EUR-Lex: propuesta COM(2026) 16 final",
@@ -3098,7 +3098,7 @@
      "t": "Plazo de transposición"
     }
    ],
-   "verificado": "Adopción (23-10-2024), publicación (11-11-2024), entrada en vigor (1-12-2024) y plazo de transposición (2-12-2026, arts. 29.1 y 31), según la auditoría del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, no abiertas por mí). Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión final de la auditoría de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Adopción (23-10-2024), publicación (11-11-2024), entrada en vigor (1-12-2024) y plazo de transposición (2-12-2026, arts. 29.1 y 31), según la verificación del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, en revisión). Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión final de la verificación de alta prioridad (PI, trabajo y transversal) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Transposición española: a 7-11-2026 no se ha acreditado una norma publicada en el BOE que la transponga por completo, lo que no equivale a demostrar que no exista. El plazo vence el 2-12-2026 y todavía no ha concluido: no calificarla como incumplimiento antes. Verificar novedades y las medidas notificadas a la Comisión. España ha iniciado actuaciones preparatorias: el Ministerio de Trabajo publicó una consulta pública previa para elaborar un anteproyecto de ley de transposición. Es actividad preparatoria, no un anteproyecto aprobado ni una transposición. La Ley 12/2021 es normativa preexistente que no acredita por sí sola la transposición íntegra.",
    "fuentes": [
     {
@@ -3132,7 +3132,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "La Ley 12/2021 es anterior a la Directiva (UE) 2024/2831 y cubre solo aspectos del reparto en plataformas y la información sobre algoritmos: no debe presentarse como transposición completa ni atribuirle intención de transposición. Verificar novedades posteriores.",
    "fuentes": [
     {
@@ -3167,8 +3167,8 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -3201,8 +3201,8 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -3239,7 +3239,7 @@
      "t": "Plazo de transposición"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -3277,7 +3277,7 @@
      "t": "Plazo de transposición"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Estado de la propuesta de refundición de la Comisión.",
    "fuentes": [
     {
@@ -3315,7 +3315,7 @@
      "t": "Aplicación"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisiones complementarias del bloque «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Designación de las autoridades españolas y norma interna de ejecución.",
    "fuentes": [
     {
@@ -3348,7 +3348,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). La estafa informática se refiere al art. 249.1.a, no al antiguo art. 248.2. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). La estafa informática se refiere al art. 249.1.a, no al antiguo art. 248.2. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Preceptos concretos y reformas recientes.",
    "fuentes": [
     {
@@ -3382,7 +3382,7 @@
     }
    ],
    "cambios": "La Ley de Enjuiciamiento Criminal procede del Real Decreto de 14-09-1882; la Ley Orgánica 13/2015 es una reforma sustantiva posterior, que introdujo las medidas de investigación tecnológica (arts. 588 bis y siguientes).",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual. La cronología sitúa la norma en 2015 (año de su reforma tecnológica) porque la escala empieza en 1990; su primer hito es de 1882.",
    "fuentes": [
     {
@@ -3416,7 +3416,7 @@
     }
    ],
    "cambios": "Se aplica hasta el 3-04-2028 (art. 11). Sucede al Reglamento (UE) 2021/1232, cuyo régimen temporal, prorrogado por el Reglamento (UE) 2024/1307, expiró el 3-04-2026. El art. 1.3 excluye las comunicaciones a las que se aplique, se haya aplicado o se vaya a aplicar el cifrado de extremo a extremo.",
-   "verificado": "Existencia y fechas, a partir de una única fuente secundaria. Precisiones de la auditoría de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1881 (Arts. 1.3 y 11; considerandos 10 y 32).",
+   "verificado": "Existencia y fechas, a partir de una única fuente secundaria. Precisiones de la verificación de comunicaciones, datos y delitos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1881 (Arts. 1.3 y 11; considerandos 10 y 32).",
    "pendiente": "Contraste de la numeración, la fecha de aplicación y el texto con EUR-Lex.",
    "fuentes": [
     {
@@ -3450,7 +3450,7 @@
     }
    ],
    "cambios": "Procedimiento legislativo 2022/0155/COD, en curso según EUR-Lex.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/procedure/EN/2022_155 (Ficha de procedimiento).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 6 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/procedure/EN/2022_155 (Ficha de procedimiento).",
    "pendiente": "Estado actual de las negociaciones.",
    "fuentes": [
     {
@@ -3489,7 +3489,7 @@
      "t": "Fin del plazo de transposición (art. 22.1: «antes del 17 de enero de 2002»)"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Auditoría independiente de 8-11-2026: fecha 2002-01-16 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32000L0031 (Art. 22.1).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Verificación documental de 8-11-2026: fecha 2002-01-16 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32000L0031 (Art. 22.1).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -3560,7 +3560,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la auditoría, no abiertas por mí).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Revisión 8 de «Comunicaciones, datos y delitos» del 8-11-2026 (fuentes primarias citadas en la verificación, en revisión).",
    "pendiente": "Contraste con la fuente oficial y con su estado de aplicación actual.",
    "fuentes": [
     {
@@ -3595,7 +3595,7 @@
     }
    ],
    "cambios": "La Directiva (UE) 2023/2225 es aplicable desde el 20 de noviembre de 2026. La modificación o sustitución de la Ley 16/2011 solo puede afirmarse según la norma española que se apruebe.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pude abrirla: error del sitio).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Segunda verificación de mercado financiero, pagos y crédito al consumo del 8-11-2026 (fuentes oficiales citadas en ella; la página del Consejo no pudo abrirse: error del sitio).",
    "pendiente": "Transposición española de la Directiva 2023/2225: sin norma definitiva identificada. La Ley 16/2011 transpuso la Directiva 2008/48/CE y no puede clasificarse sin más como transposición de la nueva.",
    "fuentes": [
     {
@@ -3629,7 +3629,7 @@
      "t": "Publicación en el BOE"
     }
    ],
-   "verificado": "Delimitación entre instrumentos financieros y criptoactivos (art. 2 de la Ley y art. 2.4.a de MiCA), según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí; no es una certificación definitiva).",
+   "verificado": "Delimitación entre instrumentos financieros y criptoactivos (art. 2 de la Ley y art. 2.4.a de MiCA), según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Revisión ampliada de pagos y criptoactivos del 8-11-2026 (fuentes oficiales citadas en ella, en revisión; no es una certificación definitiva).",
    "pendiente": "Alcance de las disposiciones sobre criptoactivos.",
    "fuentes": [
     {
@@ -3663,7 +3663,7 @@
     }
    ],
    "cambios": "La Directiva (UE) 2022/2557 exige adaptar el régimen español. El Proyecto de Ley de protección y resiliencia de las entidades críticas (121/000088; Consejo de Ministros de 17-03-2026, BOCG de 27-03-2026) prevé derogar la Ley 8/2011; mientras no se apruebe, la Ley 8/2011 sigue vigente.",
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la auditoría, no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-88-1.PDF (BOCG A-88-1; disposición derogatoria única del proyecto).",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de ciberseguridad del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de «Administración electrónica y otros» del 8-11-2026 (fuentes oficiales citadas en la verificación, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://www.congreso.es/public_oficiales/L15/CONG/BOCG/A/BOCG-15-A-88-1.PDF (BOCG A-88-1; disposición derogatoria única del proyecto).",
    "pendiente": "Falta comprobar el texto consolidado. La derogación de la Directiva 2008/114/CE no deroga automáticamente esta ley y no consta que sea una transposición de la CER, cuya incorporación se tramita en el Proyecto de Ley 121/000088.",
    "fuentes": [
     {
@@ -3702,7 +3702,7 @@
      "t": "Entrada en vigor general, salvo aplicación diferida de determinados títulos y medidas de seguridad"
     }
    ],
-   "verificado": "Publicación el 24-11-2018, vigencia desde el 25-11-2018 y autoridad (arts. 16-17), según la auditoría del 7 de noviembre de 2026 (fuente citada no abierta por mí). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (no abierto por mí).",
+   "verificado": "Publicación el 24-11-2018, vigencia desde el 25-11-2018 y autoridad (arts. 16-17), según la verificación del 7 de noviembre de 2026 (fuente citada, en revisión). Identificación, fechas y obligaciones citadas contrastadas con el texto oficial según la revisión de pagos y criptoactivos del 8-11-2026 (en revisión).",
    "pendiente": "Partes vigentes tras las modificaciones y aplicación diferida de determinados títulos y medidas de seguridad: contrastar con el BOE consolidado.",
    "fuentes": [
     {
@@ -3754,7 +3754,7 @@
     }
    ],
    "cambios": "Fue convalidado por acuerdo del Congreso de los Diputados de 2-12-2021, lo que no equivale a su tramitación y aprobación como ley. Contiene una corrección de errores. El libro sexto es aplicable desde el 28-05-2022, con una excepción relativa al art. 107.5 del texto refundido de consumo.",
-   "verificado": "Libro cuarto (arts. 65-80), publicación (3-11-2021), entrada en vigor general (4-11-2021, con excepciones de la disposición final décima), convalidación y libro sexto (arts. 82-85), según la auditoría del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, no abiertas por mí). Precisiones de la auditoría de control medio del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí). Segunda revisión de la auditoría de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
+   "verificado": "Libro cuarto (arts. 65-80), publicación (3-11-2021), entrada en vigor general (4-11-2021, con excepciones de la disposición final décima), convalidación y libro sexto (arts. 82-85), según la verificación del 7 de noviembre de 2026 (fuentes citadas, EUR-Lex y BOE, en revisión). Precisiones de la verificación de control medio del 8-11-2026 (fuentes oficiales citadas en ella, en revisión). Segunda revisión de la verificación de todas las áreas del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
    "pendiente": "Comprobar el historial legislativo concreto antes de atribuir una ley de conversión y la redacción consolidada de las normas modificadas. No confundir la entrada en vigor general con la aplicación específica del libro sexto.",
    "fuentes": [
     {
@@ -3811,8 +3811,8 @@
      "t": "Aplicación a las aplicaciones móviles"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Aplicación: sitios web nuevos desde el 23-09-2019, preexistentes desde el 23-09-2020 y aplicaciones móviles desde el 23-06-2021, según la auditoría.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Aplicación: sitios web nuevos desde el 23-09-2019, preexistentes desde el 23-09-2020 y aplicaciones móviles desde el 23-06-2021, según la verificación.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -3849,8 +3849,8 @@
      "t": "Entrada en vigor general; la aplicación a algunos sitios y aplicaciones se aplaza según la disposición final quinta"
     }
    ],
-   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la auditoría de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, no abiertas por mí).",
-   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (auditoría del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. Falta comprobar los plazos de aplicación de la disposición final quinta y el organismo vigente de seguimiento.",
+   "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial. Precisiones de la verificación de Administración electrónica (nivel medio) del 8-11-2026 (fuentes oficiales citadas en ella, en revisión).",
+   "pendiente": "Contraste parcial con la fuente oficial en los extremos citados (verificación del 8-11-2026); queda pendiente la versión consolidada y lo no verificado. Falta comprobar los plazos de aplicación de la disposición final quinta y el organismo vigente de seguimiento.",
    "fuentes": [
     {
      "t": "BOE: texto consolidado",
@@ -3892,7 +3892,7 @@
     }
    ],
    "verificado": "Ninguno en esta revisión: los datos proceden de la lectura del texto oficial.",
-   "pendiente": "Entrada en vigor (07-11-2024) según los metadatos de EUR-Lex; no he podido leer la cláusula final del texto. Falta comprobar el listado exacto de entidades y los umbrales de incidente significativo contra el texto.",
+   "pendiente": "Entrada en vigor (07-11-2024) según los metadatos de EUR-Lex; no se pudo leer la cláusula final del texto. Falta comprobar el listado exacto de entidades y los umbrales de incidente significativo contra el texto.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -4030,7 +4030,7 @@
     }
    ],
    "cambios": "Existe versión consolidada vigente de 12-09-2023: no conviene usar solo el texto original.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra el texto consolidado las excepciones vigentes y la relación con la reforma PSD3/PSR en tramitación, que podría modificar este régimen.",
    "fuentes": [
     {
@@ -4074,7 +4074,7 @@
     }
    ],
    "cambios": "Modificado, en particular, por el Reglamento (UE) 2024/886 (transferencias inmediatas).",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra la versión consolidada el texto actual de cada artículo.",
    "fuentes": [
     {
@@ -4131,7 +4131,7 @@
     }
    ],
    "cambios": "Las obligaciones se aplican por fases y con excepciones por categoría de proveedor y por Estado miembro.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra el texto las excepciones por categoría de proveedor y las fechas aplicables a los Estados miembros fuera de la zona euro.",
    "fuentes": [
     {
@@ -4175,7 +4175,7 @@
     }
    ],
    "cambios": "Modificado por el Reglamento (UE) 2024/886; EUR-Lex recoge versión consolidada de 8-04-2024.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra el texto consolidado el alcance exacto de los deberes de información.",
    "fuentes": [
     {
@@ -4220,7 +4220,7 @@
     }
    ],
    "cambios": "Modificado, entre otros, por el Reglamento (UE) 2022/2554 (DORA) y el Reglamento (UE) 2024/791, con calendarios propios de aplicación.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra el texto consolidado la versión vigente de cada artículo y el calendario de las reformas de 2024.",
    "fuentes": [
     {
@@ -4267,7 +4267,7 @@
     }
    ],
    "cambios": "Es una directiva: exige transposición, a diferencia del Reglamento DORA, directamente aplicable.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Transposición española específica: no acreditada con las fuentes examinadas; debe verificarse antes de asignarle un estado nacional definitivo.",
    "fuentes": [
     {
@@ -4328,8 +4328,8 @@
     }
    ],
    "cambios": "La transposición es escalonada. En España, el Real Decreto 813/2026, de 7 de octubre (BOE de 8-10-2026), modifica en su artículo quinto el Reglamento de la Ley 10/2010 y, según su disposición final segunda, incorpora parcialmente esta Directiva.",
-   "verificado": "Fechas y plazos según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí). El Real Decreto 813/2026 (BOE de 8-10-2026, en vigor desde el 28-10-2026) consta en una nota de Garrigues que consulté. Auditoría independiente de 8-11-2026: obligación 1 y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024L1640 (Arts. 10 y 18) y https://www.boe.es/eli/es/rd/2026/10/07/813 (Art. quinto y DF 2.ª).",
-   "pendiente": "Transposición española: parcial según el informe (disposición final segunda del Real Decreto 813/2026), no contrastada por mí con el BOE; la transposición completa está pendiente de comprobación. La nota de Garrigues que consulté no confirma esa incorporación parcial.",
+   "verificado": "Fechas y plazos según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión). El Real Decreto 813/2026 (BOE de 8-10-2026, en vigor desde el 28-10-2026) consta en una nota de Garrigues que consulté. Verificación documental de 8-11-2026: obligación 1 y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024L1640 (Arts. 10 y 18) y https://www.boe.es/eli/es/rd/2026/10/07/813 (Art. quinto y DF 2.ª).",
+   "pendiente": "Transposición española: parcial según el informe (disposición final segunda del Real Decreto 813/2026), en revisión frente al BOE; la transposición completa está pendiente de comprobación. La nota de Garrigues que consulté no confirma esa incorporación parcial.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -4384,7 +4384,7 @@
     }
    ],
    "cambios": "EUR-Lex recoge versión consolidada de 10-11-2025.",
-   "verificado": "Contenido y fechas según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, no abiertas por mí).",
+   "verificado": "Contenido y fechas según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (fuentes oficiales citadas, en revisión).",
    "pendiente": "Falta comprobar contra el texto consolidado las competencias de supervisión directa y su calendario de ejercicio.",
    "fuentes": [
     {
@@ -4437,7 +4437,7 @@
     }
    ],
    "cambios": "El anexo II ha sido modificado por la Directiva Delegada (UE) 2026/74 de la Comisión, de 12-01-2026, para incluir los aparatos de calefacción local (DO de 20-04-2026). El art. 5.6 está condicionado por los bienes y requisitos del anexo II.",
-   "verificado": "Preceptos, fechas y matices del art. 5.6 según el informe de verificación de otra herramienta de IA aportado por el autor del mapa el 7-11-2026 (texto oficial citado vía BOE/DOUE, no abierto por mí). Auditoría independiente de 8-11-2026: autoridad y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024L1799 (—) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026L0074 (Título de la Directiva Delegada 2026/74).",
+   "verificado": "Preceptos, fechas y matices del art. 5.6 según el informe de verificación externo aportado por el autor del mapa el 7-11-2026 (texto oficial citado vía BOE/DOUE, en revisión). Verificación documental de 8-11-2026: autoridad y cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32024L1799 (—) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026L0074 (Título de la Directiva Delegada 2026/74).",
    "pendiente": "Transposición española: no acreditada con las fuentes localizadas; no registrarla como transpuesta sin comprobar la legislación española, aunque el plazo venció el 31-07-2026. Falta contrastar el texto consolidado y los efectos de la Directiva 2026/74.",
    "fuentes": [
     {
@@ -4486,7 +4486,7 @@
     }
    ],
    "cambios": "Los preceptos citados (arts. 86 bis y siguientes, 127 bis, 160 y siguientes) son de la Directiva (UE) 2017/1132, introducidos o modificados por el art. 1 de esta Directiva: no deben citarse como artículos de la 2019/2121. Sus modificaciones están integradas en la Directiva 2017/1132, que conviene consultar en versión consolidada.",
-   "verificado": "Identificación, fechas, preceptos digitales y transposición española según el informe de verificación de otra herramienta de IA y ficha de Notion aportados por el autor del mapa el 7-11-2026 (BOE/DOUE y EUR-Lex citados, no abiertos por mí).",
+   "verificado": "Identificación, fechas, preceptos digitales y transposición española según el informe de verificación externo y ficha documental aportados por el autor del mapa el 7-11-2026 (BOE/DOUE y EUR-Lex citados, en revisión).",
    "pendiente": "Falta contrastar el texto consolidado de la Directiva 2017/1132 y su aplicación actual. Se ha ubicado en Administración electrónica por su dimensión de procedimiento electrónico e interoperabilidad registral; es una norma de Derecho de sociedades de relevancia digital directa pero no exclusivamente digital. Normas conexas no recogidas en el mapa: Directiva 2017/1132 y Directiva (UE) 2019/1151 (digitalización del Derecho de sociedades).",
    "fuentes": [
     {
@@ -4525,7 +4525,7 @@
      "t": "Adopción"
     }
    ],
-   "verificado": "Su preámbulo declara que el libro primero transpone la Directiva (UE) 2019/2121, según el informe de verificación de otra herramienta de IA y ficha de Notion aportados por el autor del mapa el 7-11-2026 (BOE/DOUE y EUR-Lex citados, no abiertos por mí).",
+   "verificado": "Su preámbulo declara que el libro primero transpone la Directiva (UE) 2019/2121, según el informe de verificación externo y ficha documental aportados por el autor del mapa el 7-11-2026 (BOE/DOUE y EUR-Lex citados, en revisión).",
    "pendiente": "Faltan la fecha de publicación y de entrada en vigor, la correspondencia artículo por artículo con la Directiva y las modificaciones posteriores: comprobar el texto consolidado del BOE antes de codificar obligaciones concretas.",
    "fuentes": [
     {
@@ -4580,7 +4580,7 @@
     }
    ],
    "cambios": "Sanciones: en las infracciones del art. 21 del Reglamento (UE) 2017/2394, la multa máxima debe ser al menos del 4 % del volumen de negocios anual o, si no hay datos, de 2 millones de euros; no es un techo universal del 4 %. La Directiva (UE) 2025/2647, de 16-12-2025, modificó el art. 5 tras la supresión de la plataforma europea de resolución de litigios en línea: el punto de información remite ahora a la Red de Centros Europeos del Consumidor.",
-   "verificado": "Contenido, fechas, preceptos y transposición española según la ficha de Notion aportada por el autor del mapa el 7-11-2026, con fuentes del BOE/DOUE citadas (no abiertas por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025L2647 (Título, considerando 42 y art. 3 de la Dir. 2025/2647).",
+   "verificado": "Contenido, fechas, preceptos y transposición española según la ficha documental del autor aportada por el autor del mapa el 7-11-2026, con fuentes del BOE/DOUE citadas (en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025L2647 (Título, considerando 42 y art. 3 de la Dir. 2025/2647).",
    "pendiente": "Falta contrastar las versiones consolidadas de las directivas modificadas, la modificación del art. 5 por la Directiva 2025/2647, los desarrollos nacionales y los cambios del régimen europeo de resolución de litigios en línea.",
    "fuentes": [
     {
@@ -4626,7 +4626,7 @@
     }
    ],
    "cambios": "La Directiva (UE) 2017/1564 y la Directiva (UE) 2019/790 modificaron el art. 5 (esta última también el art. 12). Debe leerse el texto consolidado y no la redacción original. España la incorporó mediante la Ley 23/2006, de 7 de julio (BOE de 8-07-2006, en vigor el 28-07-2006), que modificó el texto refundido de la Ley de Propiedad Intelectual.",
-   "verificado": "Contenido, fechas, preceptos y transposición inicial según la ficha de Notion aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (no abiertas por mí).",
+   "verificado": "Contenido, fechas, preceptos y transposición inicial según la ficha documental del autor aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (en revisión).",
    "pendiente": "Falta contrastar, artículo por artículo, la versión consolidada posterior a la Directiva 2019/790, las reformas españolas sucesivas del texto refundido de la Ley de Propiedad Intelectual y su incidencia en los usos de contenidos para sistemas de IA. No debe afirmarse que la Ley 23/2006 agote el régimen vigente.",
    "fuentes": [
     {
@@ -4681,7 +4681,7 @@
     }
    ],
    "cambios": "España la incorporó mediante la Ley 19/2006, de 5 de junio (BOE de 6-06-2006, en vigor el 7-06-2006), que modificó el texto refundido de la Ley de Propiedad Intelectual, la Ley de Enjuiciamiento Civil y normas de propiedad industrial. Su ámbito es más amplio que el digital: comprende también la propiedad industrial y las infracciones fuera de línea.",
-   "verificado": "Identificación, calendario, transposición formal y preceptos principales según la ficha de Notion aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (no abiertas por mí).",
+   "verificado": "Identificación, calendario, transposición formal y preceptos principales según la ficha documental del autor aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (en revisión).",
    "pendiente": "Falta revisar la corrección de errores publicada en enero de 2026 (DOUE-L-2026-80055) y su efecto, la jurisprudencia del Tribunal de Justicia y el estado consolidado de las normas españolas. No debe atribuirse a la Directiva un deber general de supervisión de los intermediarios.",
    "fuentes": [
     {
@@ -4735,7 +4735,7 @@
     }
    ],
    "cambios": "Derogó la Directiva 91/533/CEE desde el 1-08-2022. En España el Real Decreto 723/2026 la transpone solo parcialmente (disposición final segunda).",
-   "verificado": "Preceptos, fechas y relación con el Real Decreto 723/2026 según la ficha de Notion aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (no abiertas por mí).",
+   "verificado": "Preceptos, fechas y relación con el Real Decreto 723/2026 según la ficha documental del autor aportada por el autor del mapa el 8-11-2026, con fuentes del BOE/DOUE citadas (en revisión).",
    "pendiente": "No está acreditado que todas sus obligaciones estén transpuestas en España únicamente por el Real Decreto 723/2026.",
    "fuentes": [
     {
@@ -4781,7 +4781,7 @@
     }
    ],
    "cambios": "Deroga el Real Decreto 1659/1998 (disposición derogatoria única) y transpone parcialmente la Directiva (UE) 2019/1152 (disposición final segunda): no es una transposición íntegra. La exposición de motivos enlaza la novedad algorítmica con el Reglamento (UE) 2024/1689 (arts. 2.11, 26.7, 26.11 y 86 y anexo III.4.b), pero ámbitos, obligaciones y calendarios son independientes. La obligación del art. 3.2.k no es una transcripción de la Directiva.",
-   "verificado": "Fechas, publicación (BOE núm. 228, BOE-A-2026-19200), entrada en vigor, transposición parcial, art. 3.2.k, ámbito, régimen transitorio y referencias a la LISOS según la ficha de Notion del 8-11-2026, que indica haberlos contrastado con el BOE (no abierto por mí); fecha, entrada en vigor y art. 3.2.k contrastados además con un comentario de Cuatrecasas (fuente secundaria).",
+   "verificado": "Fechas, publicación (BOE núm. 228, BOE-A-2026-19200), entrada en vigor, transposición parcial, art. 3.2.k, ámbito, régimen transitorio y referencias a la LISOS según la ficha documental del autor del 8-11-2026, que indica haberlos contrastado con el BOE (en revisión); fecha, entrada en vigor y art. 3.2.k contrastados además con un comentario de Cuatrecasas (fuente secundaria).",
    "pendiente": "Interpretación no cerrada: tipificación sancionadora de cada supuesto, suficiencia material de la información sobre criterios y reglas sin revelar secretos empresariales, y articulación con la transparencia colectiva, la protección de datos y el calendario del Reglamento de IA. Falta contrastar modificaciones posteriores del texto consolidado y los criterios de la Inspección.",
    "fuentes": [
     {
@@ -4831,7 +4831,7 @@
     }
    ],
    "cambios": "No transpone la Directiva NIS2. Su vigencia actual depende de la situación del Real Decreto-ley 12/2018 que desarrolla.",
-   "verificado": "Existencia, pertinencia y relación con el Real Decreto-ley 12/2018 según la auditoría de ciberseguridad del 8-11-2026 (fuente BOE citada, no abierta por mí).",
+   "verificado": "Existencia, pertinencia y relación con el Real Decreto-ley 12/2018 según la verificación de ciberseguridad del 8-11-2026 (fuente BOE citada, en revisión).",
    "pendiente": "Falta comprobar la fecha de publicación y de entrada en vigor, el texto consolidado y su situación tras la transposición española de NIS2.",
    "fuentes": [
     {
@@ -4866,8 +4866,8 @@
     }
    ],
    "cambios": "Es un reglamento de doble base, de la Unión y de Euratom.",
-   "verificado": "Existencia, pertinencia y contenido general según la auditoría de ciberseguridad del 8-11-2026 (fuente EUR-Lex citada, no abierta por mí). Auditoría independiente de 8-11-2026: obligación 2 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2841 (Arts. 6, 10 y 13-20).",
-   "pendiente": "Falta comprobar la fecha de publicación y de entrada en vigor y el detalle de sus obligaciones; la fecha de adopción procede de mi conocimiento y no está contrastada.",
+   "verificado": "Existencia, pertinencia y contenido general según la verificación de ciberseguridad del 8-11-2026 (fuente EUR-Lex citada, en revisión). Verificación documental de 8-11-2026: obligación 2 contrastada con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32023R2841 (Arts. 6, 10 y 13-20).",
+   "pendiente": "Falta comprobar la fecha de publicación y de entrada en vigor y el detalle de sus obligaciones; la fecha de adopción está en revisión.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -4904,8 +4904,8 @@
     }
    ],
    "cambios": "Modificado por el Reglamento Delegado (UE) 2023/2444, que fija su aplicación desde el 1-08-2025. El Reglamento Delegado (UE) 2026/339, de 16-02-2026 (DO de 29-04-2026), lo deroga con efectos desde el 11-12-2027, cuando el CRA pase a aplicarse con carácter general; hasta entonces puede concurrir con el CRA.",
-   "verificado": "Pertinencia y fecha de aplicación (1-08-2025) según la auditoría de ciberseguridad del 8-11-2026 (fuente EUR-Lex citada, no abierta por mí). Auditoría independiente de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R0339 (Título del Reg. Del. 2026/339; ficha EUR-Lex de 2022/30 («end of validity 10/12/2027»)).",
-   "pendiente": "Falta comprobar la fecha de adopción y de publicación (de mi conocimiento, no contrastadas), el texto consolidado y su articulación con el CRA.",
+   "verificado": "Pertinencia y fecha de aplicación (1-08-2025) según la verificación de ciberseguridad del 8-11-2026 (fuente EUR-Lex citada, en revisión). Verificación documental de 8-11-2026: cambios contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R0339 (Título del Reg. Del. 2026/339; ficha EUR-Lex de 2022/30 («end of validity 10/12/2027»)).",
+   "pendiente": "Falta comprobar la fecha de adopción y de publicación (en revisión), el texto consolidado y su articulación con el CRA.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -4986,8 +4986,8 @@
     }
    ],
    "cambios": "Es la norma modificadora del AI Act; la ficha del AI Act recoge sus nuevas fechas.",
-   "verificado": "Existencia, vigencia desde el 27-07-2026 y carácter modificador del AI Act según la auditoría del 8-11-2026 (fuente EUR-Lex citada, no abierta por mí). Auditoría independiente de 8-11-2026: título y obligación 1 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Título; arts. 1-3) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Arts. 1 (puntos 39 y 40) y 4).",
-   "pendiente": "No he contrastado el título oficial exacto, la fecha de adopción ni el texto de sus artículos; la denominación de la ficha es descriptiva.",
+   "verificado": "Existencia, vigencia desde el 27-07-2026 y carácter modificador del AI Act según la verificación del 8-11-2026 (fuente EUR-Lex citada, en revisión). Verificación documental de 8-11-2026: título y obligación 1 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Título; arts. 1-3) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32026R1744 (Arts. 1 (puntos 39 y 40) y 4).",
+   "pendiente": "No se ha contrastado el título oficial exacto, la fecha de adopción ni el texto de sus artículos; la denominación de la ficha es descriptiva.",
    "fuentes": [
     {
      "t": "EUR-Lex: texto oficial",
@@ -5020,7 +5020,7 @@
     }
    ],
    "cambios": "Sustituye al Reglamento (UE) 2019/1157, que pasa a figurar como norma histórica.",
-   "verificado": "Existencia, vigencia y relación de sustitución con el Reglamento 2019/1157 según la auditoría del 8-11-2026 (fuente EUR-Lex citada, no abierta por mí). Auditoría independiente de 8-11-2026: título, referencia, resumen, ámbito de aplicación y obligación 1 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Título), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 1; ficha EUR-Lex de 2019/1157), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 2) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 3.1).",
+   "verificado": "Existencia, vigencia y relación de sustitución con el Reglamento 2019/1157 según la verificación del 8-11-2026 (fuente EUR-Lex citada, en revisión). Verificación documental de 8-11-2026: título, referencia, resumen, ámbito de aplicación y obligación 1 contrastados con https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Título), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 1; ficha EUR-Lex de 2019/1157), https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 2) y https://eur-lex.europa.eu/legal-content/ES/TXT/HTML/?uri=CELEX:32025R1208 (Art. 3.1).",
    "pendiente": "Falta contrastar el título oficial exacto, las fechas de adopción y publicación, el ámbito y las obligaciones.",
    "fuentes": [
     {
@@ -5054,7 +5054,7 @@
     }
    ],
    "cambios": "Sustituye al Real Decreto 1553/2005, que pasa a figurar como norma histórica.",
-   "verificado": "Existencia, vigencia desde el 2-04-2025 y derogación del Real Decreto 1553/2005 según la auditoría del 8-11-2026 (fuente BOE citada, no abierta por mí). Auditoría independiente de 8-11-2026: referencia, título, ámbito de aplicación, obligación 1 y autoridad contrastados con https://www.boe.es/eli/es/rd/2025/04/01/255/con (Título), https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 1), https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 2) y https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 2.1).",
+   "verificado": "Existencia, vigencia desde el 2-04-2025 y derogación del Real Decreto 1553/2005 según la verificación del 8-11-2026 (fuente BOE citada, en revisión). Verificación documental de 8-11-2026: referencia, título, ámbito de aplicación, obligación 1 y autoridad contrastados con https://www.boe.es/eli/es/rd/2025/04/01/255/con (Título), https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 1), https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 2) y https://www.boe.es/eli/es/rd/2025/04/01/255/con (Art. 2.1).",
    "pendiente": "Falta contrastar el título oficial exacto, la fecha de adopción y de publicación, el contenido y las competencias.",
    "fuentes": [
     {
