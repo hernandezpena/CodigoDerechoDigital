@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Si utiliza este recurso, cítelo como se indica."
+title: "Código interactivo de Derecho digital"
+version: "1.89"
+date-released: 2026-11-09
+type: software
+authors:
+  - family-names: "Hernández Peña"
+    given-names: "Juan Carlos"
+    affiliation: "Universidad de Navarra"
+abstract: "Guía interactiva de las normas de Derecho digital de la Unión Europea y de España y de sus relaciones."
+language: es
